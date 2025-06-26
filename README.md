@@ -4,7 +4,7 @@ Welcome to my repository for the **EDIC Machine Learning Summer Internship 2025*
 
 ---
 🧠 About the Internship
-The EDIC ML Summer Internship 2025 is a machine learning research training program hosted by [Insert Host Institution or Organization Name], aimed at equipping participants with hands-on experience in ML model development, experimentation, and critical thinking through weekly assignments and a final capstone project.
+The EDIC ML Summer Internship 2025 is a machine learning research training program hosted by Engineering Design and Implementation Club @ AMU, aimed at equipping participants with hands-on experience in ML model development, experimentation, and critical thinking through weekly assignments and a final capstone project.
 
 🔍 What You’ll Find Here
 ✅ Weekly Assignments: Jupyter notebooks and resources for foundational ML topics
