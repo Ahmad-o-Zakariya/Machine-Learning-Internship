@@ -1,0 +1,1001 @@
+Legacy_Customer_ID,Age,Employment_Type,Education_Level,Annual_Income($),Credit_Score,Region,Account_Type,Customer_Feedback,CLV_Score,Complaint_Count,Contact_Preference,Subscription_Tier,Target
+ID_0000,50,Freelancer,Bachelor,6680.38,672.384181,West Coast,Savings,Technical support was delayed affecting my schedule,38.6,0,Email,Enterprise,0
+ID_0001,42,Self-Employed,Bachelor,257091.82,686.1502431,Northeast,Joint,Competitive pricing compared to others,34.4,1,Phone,Basic,1
+ID_0002,61,Unemployed,Master,29989.03,681.3670277,Northeast,Joint,Technical support was delayed causing inconvenience,14.4,0,Email,Premium,1
+ID_0003,28,Freelancer,Associate,8209.7,761.5095906,Northeast,Checking,Delivery was deferred by 3 days,9.9,1,Email,Basic,0
+ID_0004,61,Self-Employed,High School,77681.93,765.0199294,Midwest,Savings,Website navigation needs improvement,,0,Phone,Premium,0
+ID_0005,28,Unemployed,High School,83064.76,742.561266,Southwest,Checking,Loyalty program incentives are advantageous,25.9,2,Phone,Basic,0
+ID_0006,35,Salaried,PhD,88872.54,779.1746833,Northeast,Savings,Product value beat anticipations,33.2,0,Email,Basic,0
+ID_0007,28,Freelancer,PhD,26448.45,661.0979566,Midwest,Joint,Return process was problematic,14.8,0,Phone,Basic,1
+ID_0008,50,Salaried,High School,1294.21,803.3612056,Northeast,Joint,Delivery was postponed by 3 days,22.3,0,Phone,Basic,1
+ID_0009,42,Unemployed,Bachelor,284991.95,796.1619311,West Coast,Savings,Return process was difficult,3.7,2,Phone,Basic,1
+ID_0010,35,Freelancer,Bachelor,24554.25,756.7810999,Midwest,Savings,Loyalty program perks are useful,21.8,2,Text,Basic,0
+ID_0011,28,Unemployed,PhD,95802.9,809.0899454,Northeast,Joint,Product grade transcended forecasts,69.5,0,Email,Premium,1
+ID_0012,61,Salaried,Master,104237.22,637.1688396,Midwest,Joint,Delivery was deferred by 3 days,10.5,0,App,Basic,1
+ID_0013,35,Freelancer,High School,80038.34,693.7775932,Northeast,Checking,Loyalty program advantages are advantageous,49.5,1,Phone,Premium,0
+ID_0014,35,Salaried,PhD,31899.33,683.234827,Southwest,Joint,Return process was confusing,25.1,0,Phone,Basic,0
+ID_0015,28,Unemployed,PhD,26878.16,756.0739662,Northeast,Savings,Loyalty program perks are beneficial,27.6,0,Phone,Premium,0
+ID_0016,35,Unemployed,High School,77390.66,667.492963,Midwest,Checking,Product standard transcended forecasts,9.9,0,Email,Basic,0
+ID_0017,61,Salaried,High School,170903.5,757.8747575,West Coast,Savings,Delivery was deferred by 3 days,30.7,1,Email,Basic,0
+ID_0018,35,Freelancer,Bachelor,249258.42,788.5268072,West Coast,Checking,Billing setbacks caused frustration,19.5,0,Phone,Basic,0
+ID_0019,61,Salaried,Master,9515.25,754.760145,West Coast,Savings,Delivery was deferred by 3 days,26,0,Phone,Basic,0
+ID_0020,28,Unemployed,Master,14298.35,734.1875512,Northeast,Joint,Loyalty program perks are useful,19.1,1,Phone,Premium,1
+ID_0021,42,Salaried,High School,246129.25,670.606333,Southwest,Savings,Return process was overly complex,11.6,1,Email,Premium,0
+ID_0022,35,Unemployed,Associate,113376.03,677.6574517,Northeast,Checking,Loyalty program rewards are beneficial,27.7,0,Email,Basic,0
+ID_0023,42,Salaried,PhD,182369.93,782.4809453,West Coast,Savings,Technical support was delayed affecting my schedule,32.6,2,Email,Basic,0
+ID_0024,61,Freelancer,PhD,19247.38,758.9674502,Midwest,Checking,Product value outstripped anticipations,19.8,0,Phone,Basic,0
+ID_0025,35,Freelancer,High School,75286.82,718.049024,West Coast,Savings,Website design needs improvement,15,1,Email,Basic,1
+ID_0026,50,Salaried,Associate,102661.19,699.1045227,Midwest,Joint,Return process was problematic,16.4,1,Phone,Premium,0
+ID_0027,42,Salaried,Bachelor,96881.64,618.7096063,Southwest,,Loyalty program perks are profitable,41.6,0,Email,Basic,0
+ID_0028,35,Freelancer,High School,44582.92,666.4573791,,Savings,Loyalty program privileges are profitable,30.3,0,Phone,Basic,0
+ID_0029,42,Unemployed,High School,1318.74,815.5709544,Northeast,Savings,Product grade surpassed projections,32.8,1,Email,Basic,0
+ID_0030,35,Freelancer,PhD,74331.8,655.9772214,Northeast,Savings,Delivery was late by 3 days affecting my schedule,36.9,3,Email,Basic,1
+ID_0031,28,Unemployed,High School,24805.21,729.4739911,Northeast,,Loyalty program advantages are advantageous,4.9,3,Phone,Basic,0
+ID_0032,42,Salaried,High School,50855.45,770.3721987,Midwest,Savings,Return process was difficult,11.4,1,Phone,Basic,0
+ID_0033,50,Salaried,High School,268613.54,657.2538666,Northeast,,Website user experience needs improvement,54.2,0,Email,Basic,1
+ID_0034,50,Unemployed,PhD,43283.62,729.2355237,,Checking,Loyalty program perks are useful,6.5,1,App,Basic,1
+ID_0035,61,Salaried,Bachelor,155664.09,766.8957769,Northeast,Joint,Highly recommend this service to colleagues,19.3,0,Email,Basic,1
+ID_0036,35,Unemployed,Bachelor,17758.28,720.6249661,Southwest,Savings,Billing setbacks caused frustration,44.8,1,Email,Premium,0
+ID_0037,42,Self-Employed,High School,94872.46,863.4201528,Midwest,Savings,Technical support was delayed affecting my schedule,22.3,2,Email,Basic,0
+ID_0038,61,Freelancer,PhD,320667.9,636.5700371,Midwest,Joint,Highly recommend this service,15.7,0,Email,Basic,1
+ID_0039,42,Self-Employed,Bachelor,9134.62,772.9364265,West Coast,Joint,Delivery was deferred by 3 days,24.2,1,Email,Basic,0
+ID_0040,35,,Bachelor,710.15,711.3599131,Midwest,Checking,Return process was overly complex,23.8,2,Email,Basic,0
+ID_0041,50,Freelancer,Bachelor,48316.07,758.5960077,Southwest,Savings,Delivery was held up by 3 days,17.2,0,Phone,Basic,0
+ID_0042,28,,PhD,8262,742.0653576,Midwest,Savings,Loyalty program perks are beneficial,2,1,Email,Premium,0
+ID_0043,50,Freelancer,PhD,117287.47,683.3421901,Southwest,Checking,Loyalty program privileges are profitable,11.3,0,Phone,Premium,1
+ID_0044,61,Freelancer,High School,209083.7,731.4498196,Southwest,Joint,Delivery was held up by 3 days,24.5,2,Email,Basic,0
+ID_0045,28,Freelancer,Master,48381.85,627.1049274,Midwest,Checking,Technical support was ignoring,17.5,0,Email,Premium,1
+ID_0046,61,Freelancer,Bachelor,25446.07,750.162375,West Coast,Joint,Website user experience needs improvement,41.2,1,Email,Basic,0
+ID_0047,35,Unemployed,Master,48439.29,734.9079233,Northeast,Checking,Billing difficulties caused frustration,23.2,2,Phone,Basic,0
+ID_0048,28,Freelancer,,109255.24,751.9330084,Northeast,Joint,Return process was overly complex,39.7,2,Phone,Enterprise,0
+ID_0049,61,Freelancer,PhD,773.11,772.9059163,Midwest,Checking,Highly recommend this service,13.5,0,Text,Premium,0
+ID_0050,35,Self-Employed,PhD,75672.72,738.380992,Midwest,Joint,Website user experience needs improvement,35.7,1,Email,Enterprise,1
+ID_0051,50,Salaried,Master,80757.19,727.404471,Southwest,Joint,Website design needs improvement,10.7,0,Phone,Basic,1
+ID_0052,35,Salaried,PhD,86296.27,675.9465832,Midwest,Joint,Return process was overly complex,22.2,0,Phone,Basic,1
+ID_0053,42,Self-Employed,High School,23553.59,684.3889618,Southwest,Joint,Loyalty program perks are beneficial,45.6,0,Email,Basic,1
+ID_0054,35,Self-Employed,PhD,106415.57,779.336731,West Coast,Joint,Technical support was ignoring,12.9,0,Email,Premium,0
+ID_0055,35,Unemployed,Associate,8146.48,791.8167703,Midwest,Savings,Highly recommend this service to colleagues,33.9,0,Email,Basic,1
+ID_0056,42,Unemployed,Master,18889.71,708.0944782,Northeast,Joint,Website user experience needs improvement,29.9,2,Phone,Premium,0
+ID_0057,61,Unemployed,,178448.98,722.3001374,Northeast,Savings,Loyalty program privileges are profitable,13.9,0,Email,Basic,0
+ID_0058,61,Self-Employed,PhD,114084.85,674.7692813,Midwest,Joint,Return process was difficult,40.6,2,Phone,Basic,0
+ID_0059,35,,High School,1176.48,778.6378423,Southwest,Savings,Return process was confusing,26.6,0,Phone,Premium,0
+ID_0060,42,Freelancer,Bachelor,24269.15,753.2708412,Northeast,Savings,Delivery was postponed by 3 days,46.8,0,Phone,Premium,0
+ID_0061,42,Unemployed,PhD,20511.84,817.0608718,Southwest,Checking,Return process was convoluted,20.7,2,Email,Basic,0
+ID_0062,50,Unemployed,High School,26844.35,676.0838461,Midwest,Joint,Delivery was late by 3 days affecting my schedule,59.5,1,Phone,Enterprise,1
+ID_0063,61,Unemployed,Master,24176.87,701.099605,Midwest,Checking,Delivery was deferred by 3 days,61.6,1,Email,Basic,0
+ID_0064,28,Salaried,Associate,5488.16,731.5722961,,Checking,Billing problems caused frustration that needs resolution,20.1,3,Email,Basic,0
+ID_0065,61,Freelancer,Associate,52209.21,752.3244769,Midwest,Joint,Loyalty program privileges are advantageous,60.1,0,Phone,Premium,0
+ID_0066,61,Unemployed,Associate,112158.26,709.2166181,West Coast,Checking,Loyalty program privileges are profitable,,2,Email,Enterprise,0
+ID_0067,50,Unemployed,Master,79327.38,676.3519455,West Coast,Joint,Return process was difficult,5.8,1,Email,Premium,1
+ID_0068,28,Unemployed,High School,94979.23,764.0703764,Northeast,Checking,Technical support was ignoring,42.4,2,Email,Premium,0
+ID_0069,50,,Master,7193.68,,West Coast,Joint,Billing challenges caused frustration,9.9,0,Email,Premium,1
+ID_0070,28,Salaried,Associate,257210,674.186295,Southwest,Joint,Return process was overly complex,28.8,1,Email,Enterprise,1
+ID_0071,35,Self-Employed,PhD,154971.96,787.7721401,Northeast,Joint,Loyalty program perks are useful,26.5,1,Email,Basic,0
+ID_0072,28,Freelancer,Bachelor,138993.61,778.5099355,Northeast,Savings,Highly recommend this service without hesitation,27.7,0,Phone,Premium,0
+ID_0073,50,Self-Employed,,147178.69,726.7148249,Southwest,Checking,Billing problems caused frustration requiring immediate attention,29,0,Email,Premium,1
+ID_0074,61,Freelancer,Master,229393.85,723.9798931,West Coast,Savings,Delivery was deferred by 3 days,13.8,1,App,Basic,1
+ID_0075,28,Salaried,High School,66794.66,747.7028886,West Coast,Checking,Website user experience needs improvement,23.5,0,Email,Basic,1
+ID_0076,28,Unemployed,High School,18997.17,676.9148465,West Coast,Checking,Delivery was late by 3 days affecting my schedule,18.9,0,Email,Basic,1
+ID_0077,42,Self-Employed,,81528.21,721.501574,Northeast,Checking,Highly recommend this service without hesitation,26.8,2,Phone,Premium,0
+ID_0078,61,Unemployed,Associate,115448.55,612.3808228,Northeast,Savings,Product caliber outstripped anticipations,22,1,Email,Basic,0
+ID_0079,35,Self-Employed,Bachelor,113823.12,763.8227823,West Coast,Checking,Loyalty program perks are beneficial,43.8,0,Text,Premium,0
+ID_0080,50,Salaried,High School,62644.37,641.9253389,Midwest,Savings,Product caliber outstripped anticipations,22.9,0,Phone,Basic,1
+ID_0081,35,Salaried,Associate,6027.76,795.1709914,,Joint,Website user experience needs improvement,19.1,1,Email,Basic,1
+ID_0082,61,Salaried,PhD,39423.31,703.4939953,Southwest,Checking,Technical support was ignoring,27,1,Phone,Premium,0
+ID_0083,28,Self-Employed,High School,215505.38,709.4166509,Northeast,Checking,Delivery was late by 3 days affecting my schedule,11.4,4,Email,Basic,0
+ID_0084,28,Freelancer,Associate,74642.73,688.6133047,Southwest,Joint,Website design needs improvement,26.1,1,App,Basic,0
+ID_0085,61,Self-Employed,Associate,65697.28,705.5980563,Southwest,Joint,Highly recommend this service without hesitation,1.8,0,Text,Basic,0
+ID_0086,28,Freelancer,Bachelor,26617.02,790.9265673,Northeast,Checking,Product value beat anticipations,35.1,1,Phone,Premium,1
+ID_0087,28,Self-Employed,Bachelor,39064,595.6095672,Midwest,,Return process was difficult,35.5,0,Email,Enterprise,1
+ID_0088,28,Self-Employed,PhD,191853.2,783.8482693,West Coast,Savings,Loyalty program perks are profitable,21.4,1,Email,Enterprise,1
+ID_0089,50,Salaried,Associate,93330.14,736.9011741,,Savings,Product standard transcended forecasts,2.4,1,Email,Premium,0
+ID_0090,50,Unemployed,Associate,131603.95,659.6489176,Northeast,Checking,Delivery was deferred by 3 days,20,3,Email,Basic,0
+ID_0091,42,Unemployed,Bachelor,51490.38,666.2343803,Southwest,Savings,Loyalty program rewards are beneficial,49.8,2,Email,Basic,1
+ID_0092,35,Freelancer,High School,84568.26,803.8196514,West Coast,Savings,Product grade transcended forecasts,10,1,App,Basic,1
+ID_0093,61,Unemployed,High School,24269.98,672.724656,Midwest,Checking,Billing setbacks caused frustration,0.3,1,Email,Basic,0
+ID_0094,61,Self-Employed,Master,103899.18,662.3324745,Midwest,Joint,Loyalty program incentives are advantageous,36.8,0,Phone,Basic,1
+ID_0095,61,Self-Employed,Bachelor,47423.16,776.8657271,Midwest,Checking,Highly recommend this service without hesitation,68,2,Phone,Basic,0
+ID_0096,42,Salaried,Master,49671.83,736.9276438,Northeast,Savings,Product grade outdid anticipations,21.3,0,Text,Premium,0
+ID_0097,50,Salaried,Bachelor,89070.46,673.1037212,Northeast,Checking,Technical support was delayed causing inconvenience,27.8,2,Email,Basic,0
+ID_0098,42,Unemployed,PhD,234027.66,730.8312488,Midwest,Checking,Loyalty program perks are profitable,25.8,2,Email,Premium,0
+ID_0099,61,Freelancer,Associate,5622.46,668.7123658,West Coast,Savings,Return process was overly complex,15.2,1,Phone,Enterprise,0
+ID_0100,35,Unemployed,PhD,148027.77,775.0410699,West Coast,Savings,Billing setbacks caused frustration,35.1,0,Text,Premium,0
+ID_0101,28,Unemployed,Bachelor,29397.46,773.0685482,Northeast,Checking,Loyalty program incentives are advantageous,11.5,0,App,Premium,1
+ID_0102,50,Unemployed,Associate,49881.58,746.6003099,Midwest,Savings,Loyalty program privileges are profitable,20.9,0,Phone,Premium,0
+ID_0103,50,Unemployed,High School,1883.34,738.0830531,West Coast,Savings,Return process was difficult,16.7,0,Email,Basic,0
+ID_0104,42,Self-Employed,High School,30444.49,808.0594062,,Savings,Product grade beat projections,61,0,Phone,Basic,1
+ID_0105,50,Freelancer,Master,59366,719.9843164,West Coast,Savings,Loyalty program incentives are advantageous,14.4,1,Email,Basic,0
+ID_0106,61,Self-Employed,Bachelor,4914.33,660.9062937,Northeast,Savings,Product grade transcended anticipations,29.6,0,Phone,Basic,0
+ID_0107,61,Freelancer,Bachelor,57417.11,742.4736956,Midwest,Savings,Product grade outdid anticipations,55.4,0,Phone,Premium,1
+ID_0108,42,Salaried,High School,222599.06,824.3023525,Southwest,Joint,Billing challenges caused frustration,15.7,1,Phone,Enterprise,0
+ID_0109,61,Unemployed,PhD,9466.54,669.2620253,Midwest,Checking,Delivery was pushed back by 3 days,55.3,0,App,Enterprise,0
+ID_0110,35,Self-Employed,Associate,122892.38,701.9268617,Midwest,Savings,Delivery was held up by 3 days,,0,Phone,Basic,0
+ID_0111,42,Freelancer,PhD,44801.41,740.8223019,Northeast,Checking,Technical support was unavailable,21.3,3,Email,Enterprise,0
+ID_0112,35,Salaried,PhD,90500.73,717.3047575,West Coast,Joint,Return process was confusing,7.6,1,Email,Basic,1
+ID_0113,28,Salaried,High School,25621.11,670.884821,West Coast,Savings,Website navigation needs improvement,17,0,Text,Premium,1
+ID_0114,35,Unemployed,High School,14768.68,776.0928928,Northeast,Checking,Loyalty program perks are beneficial,16.2,0,Email,Basic,1
+ID_0115,28,Freelancer,High School,14866.86,836.0020361,Northeast,Savings,Return process was problematic,25.9,0,Email,Basic,1
+ID_0116,28,Self-Employed,Master,6213.48,729.806573,Northeast,Savings,Return process was difficult,12.7,1,Email,Basic,1
+ID_0117,35,Unemployed,PhD,17455.68,674.7965855,Northeast,Savings,Billing problems caused frustration requiring immediate attention,27.9,0,Phone,Premium,0
+ID_0118,42,Self-Employed,Bachelor,92760.27,642.5519737,Northeast,Savings,Return process was confusing,29.5,0,Email,Basic,1
+ID_0119,61,Salaried,Associate,181428.43,732.8987991,Southwest,Savings,Website layout needs improvement,41.9,1,App,Basic,0
+ID_0120,61,Self-Employed,Master,143028.19,775.1938672,Midwest,Savings,Product grade transcended forecasts,21.5,1,App,Enterprise,1
+ID_0121,28,Self-Employed,Bachelor,98226.77,743.7583873,Midwest,Savings,Technical support was ignoring,26.8,1,App,Enterprise,1
+ID_0122,28,Unemployed,PhD,9946.63,719.879808,Midwest,Joint,Website layout needs improvement,11.7,0,Email,Basic,0
+ID_0123,42,Self-Employed,High School,29014.45,690.5364174,West Coast,Joint,Product grade surpassed anticipations,44.1,3,App,Premium,0
+ID_0124,50,Unemployed,PhD,31516.63,665.3918184,,Savings,Website design needs improvement,43.3,0,App,Basic,0
+ID_0125,35,Salaried,Associate,24448.1,761.7375663,Midwest,Savings,Return process was problematic,8,0,App,Basic,0
+ID_0126,28,Unemployed,Master,61507.53,765.6885811,West Coast,Joint,Highly recommend this service without hesitation,65.7,3,Phone,Basic,1
+ID_0127,61,Unemployed,Master,65187.31,642.7135107,Southwest,Joint,Delivery was postponed by 3 days,10.6,0,Phone,Basic,1
+ID_0128,42,Freelancer,Associate,37521.83,799.4919489,Southwest,Joint,Loyalty program privileges are profitable,45.6,0,Email,Basic,0
+ID_0129,35,Self-Employed,Bachelor,37113.5,748.703561,West Coast,Savings,Return process was difficult,32.6,0,Text,Basic,0
+ID_0130,42,Salaried,Bachelor,149897.18,789.9797323,Southwest,Checking,Product grade transcended forecasts,33.1,1,Email,Basic,0
+ID_0131,35,Unemployed,Master,132369.31,652.8936126,West Coast,Checking,Billing problems caused frustration requiring immediate attention,22,2,Email,Premium,0
+ID_0132,35,Salaried,Master,31269.32,651.7087922,Midwest,Checking,Website user experience needs improvement,46.8,0,App,Premium,0
+ID_0133,28,Freelancer,High School,208330.84,712.5515345,West Coast,Checking,Product grade beat projections,16.4,0,Email,Basic,0
+ID_0134,42,Self-Employed,Bachelor,259562.77,745.1392213,Southwest,Savings,Billing setbacks caused frustration,15.9,1,Email,Basic,1
+ID_0135,42,Unemployed,Associate,33628.33,809.8180411,Midwest,Checking,Delivery was pushed back by 3 days,13.4,0,App,Premium,0
+ID_0136,61,Self-Employed,,37197.17,755.3039457,Midwest,Joint,Return process was problematic,31.3,2,App,Premium,0
+ID_0137,61,Freelancer,High School,59880.75,707.8659362,Northeast,Joint,Return process was confusing,54.6,2,Email,Premium,1
+ID_0138,28,Freelancer,Master,240742.75,668.6815396,Northeast,Checking,Delivery was postponed by 3 days,26.7,0,Text,Basic,0
+ID_0139,28,Salaried,Master,177654.51,781.5000286,Southwest,Joint,Website navigation needs improvement,59.1,0,Email,Basic,1
+ID_0140,50,Unemployed,High School,9198.52,671.7647287,West Coast,Savings,Highly recommend this service to colleagues,17.3,1,Email,Premium,1
+ID_0141,61,Salaried,Associate,42396.56,801.4234277,West Coast,Checking,Website navigation needs improvement,26.6,3,Email,Basic,0
+ID_0142,35,Freelancer,Master,68512.33,705.7807675,Southwest,Checking,Highly recommend this service to colleagues,4.6,0,Email,Enterprise,0
+ID_0143,42,Self-Employed,PhD,59451.71,799.5291036,Midwest,Savings,Product grade beat projections,27.5,0,Email,Premium,0
+ID_0144,28,Salaried,Master,18317.64,753.9465645,Southwest,Joint,Loyalty program perks are beneficial,48.9,1,Email,Basic,0
+ID_0145,42,Salaried,PhD,166404.22,713.1502255,Southwest,Savings,Loyalty program perks are profitable,17.5,0,App,Basic,0
+ID_0146,42,Self-Employed,,96043.17,694.0301814,Midwest,Savings,Loyalty program privileges are advantageous,32.4,0,Phone,Premium,1
+ID_0147,50,Salaried,High School,154665.45,,West Coast,Joint,Loyalty program perks are useful,2.6,0,Text,Basic,0
+ID_0148,61,Self-Employed,Master,166372.63,741.4158346,Southwest,Savings,Product grade transcended anticipations,44.5,0,Phone,Basic,0
+ID_0149,28,Unemployed,Bachelor,117277.84,723.8578248,West Coast,Joint,Product grade transcended forecasts,47.8,0,Email,Premium,0
+ID_0150,42,Self-Employed,PhD,49164.84,690.3094296,Southwest,Joint,Delivery was late by 3 days affecting my schedule,5.8,1,App,Premium,1
+ID_0151,28,Unemployed,Associate,80155.97,711.7184295,Midwest,Savings,Billing setbacks caused frustration,25.3,0,Text,Basic,0
+ID_0152,35,Self-Employed,Master,14857.02,723.9288515,Midwest,Joint,,46,2,Email,Basic,0
+ID_0153,50,Freelancer,Associate,95180.52,613.5632953,Northeast,Savings,Billing difficulties caused frustration,19.5,0,Email,Enterprise,0
+ID_0154,35,Freelancer,Master,16790.96,742.9084057,Midwest,Joint,Website layout needs improvement,12,1,Phone,Enterprise,1
+ID_0155,28,Unemployed,Bachelor,100640.46,671.0139388,Northeast,Checking,Technical support was delayed causing inconvenience,30.4,0,Phone,Premium,0
+ID_0156,28,Unemployed,Bachelor,22171.66,662.3333798,Southwest,Joint,Product grade outdid anticipations,42,0,Text,Enterprise,1
+ID_0157,61,,Bachelor,10629.64,635.6327826,West Coast,Joint,Website layout needs improvement,40.2,0,Email,Basic,1
+ID_0158,42,Unemployed,Bachelor,15356.47,630.3053751,Midwest,,Website navigation needs improvement,19.6,2,Email,Basic,0
+ID_0159,42,Self-Employed,High School,169.5,652.2276248,Midwest,Joint,Product value beat anticipations,55.9,1,Phone,Basic,1
+ID_0160,35,Self-Employed,High School,107820.33,684.5489521,Midwest,Checking,Technical support was unavailable,4.9,1,Phone,Basic,0
+ID_0161,50,Freelancer,PhD,112052.6,817.6629569,Southwest,Checking,Loyalty program privileges are profitable,32.9,0,Email,Basic,1
+ID_0162,42,Salaried,Associate,61494.86,693.7060162,Northeast,Joint,Billing setbacks caused frustration,52.8,2,Email,Basic,1
+ID_0163,61,Self-Employed,Master,14958.05,728.8875053,Southwest,Joint,,27.8,1,Phone,Premium,0
+ID_0164,35,Unemployed,Master,7416.46,740.0240693,West Coast,Checking,Billing problems caused frustration requiring immediate attention,18.7,0,Phone,Premium,0
+ID_0165,35,Salaried,High School,1641.71,726.5532593,Southwest,Savings,Loyalty program privileges are profitable,23.3,0,Email,Premium,1
+ID_0166,61,Salaried,Master,15403.7,716.127827,West Coast,,Technical support was unavailable,20.6,2,Email,Basic,0
+ID_0167,50,Self-Employed,High School,188282.05,660.2353118,Midwest,Checking,Delivery was pushed back by 3 days,31,0,Text,Basic,0
+ID_0168,61,Self-Employed,PhD,23499.19,792.5463774,West Coast,Joint,Loyalty program perks are useful,24.8,0,App,Basic,0
+ID_0169,50,Salaried,Associate,37176.95,810.3598322,West Coast,Joint,Product grade transcended anticipations,5.7,1,Email,Premium,0
+ID_0170,61,,PhD,9462,635.8670653,Northeast,Checking,Billing concerns caused frustration,25.2,0,Email,Basic,1
+ID_0171,61,Freelancer,Bachelor,21376.93,668.7985705,West Coast,Savings,Product value beat anticipations,36.5,2,App,Basic,0
+ID_0172,28,Unemployed,Bachelor,62250.18,706.0094829,West Coast,Checking,Product standard transcended forecasts,9,0,Email,Basic,0
+ID_0173,35,Freelancer,Bachelor,79548.33,671.7731103,Southwest,Checking,Product value outstripped anticipations,18.6,0,Phone,Premium,0
+ID_0174,61,Self-Employed,PhD,23927.86,745.2982777,Midwest,Savings,Loyalty program advantages are useful,35.4,2,Phone,Premium,1
+ID_0175,61,Freelancer,Master,5054.59,683.5863899,Southwest,Checking,Delivery was pushed back by 3 days,32,0,Email,Premium,0
+ID_0176,42,Freelancer,Associate,42159.23,828.2528034,Southwest,Checking,Technical support was delayed affecting my schedule,17.9,0,Phone,Basic,1
+ID_0177,35,Freelancer,Bachelor,22681.28,779.5274297,Midwest,Joint,Loyalty program perks are profitable,29.6,3,Phone,Basic,0
+ID_0178,42,Freelancer,Bachelor,21070.62,730.6287015,Midwest,Savings,Return process was convoluted,17.7,1,Phone,Basic,1
+ID_0179,35,Unemployed,Bachelor,273313.4,771.3493132,West Coast,Joint,Loyalty program perks are beneficial,25.7,1,Email,Basic,0
+ID_0180,42,Unemployed,Associate,81421.12,775.2950212,West Coast,Joint,Product caliber outstripped anticipations,26.5,0,App,Basic,0
+ID_0181,61,Salaried,Bachelor,69182.45,691.8026256,Northeast,Savings,Return process was confusing,62.4,0,Email,Basic,0
+ID_0182,61,Self-Employed,Associate,45684.89,679.1891378,Southwest,Savings,Product grade outdid hopes,18.2,0,Phone,Basic,1
+ID_0183,28,Freelancer,Bachelor,47622.83,723.9071531,Midwest,Checking,Product value beat anticipations,14.1,1,Text,Basic,1
+ID_0184,42,Salaried,PhD,66172.34,763.0818062,West Coast,Joint,Delivery was postponed by 3 days,30.5,1,Email,Basic,0
+ID_0185,50,Salaried,PhD,101332.11,726.9530199,Midwest,Savings,Product grade surpassed projections,33.8,2,Phone,Premium,1
+ID_0186,28,Salaried,Associate,102947.93,641.1501759,West Coast,Joint,Product grade beat projections,25.8,1,App,Enterprise,1
+ID_0187,42,Unemployed,PhD,16011.66,679.8587778,Northeast,Joint,Return process was overly complex,35.1,0,Email,Premium,0
+ID_0188,42,Freelancer,Associate,58936.68,716.3013568,Northeast,Savings,Highly recommend this service,21.6,0,Email,Basic,0
+ID_0189,28,Freelancer,,45131.35,716.2167198,Midwest,Checking,Technical support was delayed causing inconvenience,34.6,2,App,Basic,0
+ID_0190,61,Self-Employed,PhD,173764.03,818.6271088,Northeast,Joint,Technical support was delayed causing inconvenience,,1,Email,Premium,0
+ID_0191,42,Freelancer,Associate,84838.04,650.7006029,Midwest,Savings,Product caliber outstripped anticipations,23,1,Email,Basic,1
+ID_0192,61,Freelancer,Master,64630.99,745.2794621,West Coast,Checking,Highly recommend this service without hesitation,47.7,1,App,Premium,1
+ID_0193,28,Salaried,PhD,10422.16,794.4556554,Southwest,Joint,Return process was problematic,58,0,Text,Basic,1
+ID_0194,61,Self-Employed,Bachelor,79091.29,833.5724873,Northeast,Savings,Loyalty program perks are useful,22.9,0,App,Enterprise,0
+ID_0195,35,Freelancer,Master,10596.19,699.7801288,West Coast,Joint,Technical support was delayed affecting my schedule,6.5,1,Email,Premium,0
+ID_0196,50,Unemployed,Associate,34959.81,744.5714726,Southwest,Savings,Product caliber outstripped anticipations,9.3,1,Email,Premium,1
+ID_0197,42,Freelancer,Master,13101.3,748.4880179,Southwest,Savings,Product grade surpassed projections,31.8,1,Email,Premium,1
+ID_0198,50,Salaried,High School,100121.04,729.7740866,Southwest,Joint,Technical support was unavailable,37.4,0,Phone,Basic,1
+ID_0199,61,Unemployed,High School,19634.1,715.0577399,West Coast,Joint,Competitive pricing compared to others,14.6,0,Phone,Basic,1
+ID_0200,42,Salaried,PhD,42274.68,741.7987695,West Coast,Savings,Return process was difficult,48.2,2,Email,Basic,1
+ID_0201,61,Freelancer,PhD,192120.58,593.3876957,Midwest,Checking,Highly recommend this service without hesitation,23,0,Email,Basic,0
+ID_0202,35,Unemployed,Bachelor,19427.06,754.1034745,Southwest,Joint,Loyalty program incentives are advantageous,54.3,1,Phone,Basic,0
+ID_0203,28,Self-Employed,Master,60254.84,726.3088952,Southwest,Savings,Highly recommend this service without hesitation,30.5,1,Phone,Basic,1
+ID_0204,42,Self-Employed,High School,46195.14,708.8762552,Southwest,Savings,Excellent customer service experience,51.3,1,Email,Premium,1
+ID_0205,35,Unemployed,PhD,1554.67,822.3431098,Midwest,Checking,Website layout needs improvement,11.5,2,App,Basic,0
+ID_0206,35,Unemployed,Master,133778.83,686.2532991,Southwest,Checking,Billing challenges caused frustration,31.8,0,Email,Basic,0
+ID_0207,42,Salaried,PhD,6081.35,699.8462005,West Coast,Checking,Loyalty program perks are useful,35.2,1,Phone,Basic,1
+ID_0208,61,Unemployed,PhD,54649.82,819.5776651,Southwest,Joint,Product grade transcended forecasts,56.2,2,Text,Basic,0
+ID_0209,35,Salaried,High School,69914.48,,Northeast,Savings,Billing difficulties caused frustration,31.6,0,Phone,Basic,0
+ID_0210,50,Freelancer,High School,84150.72,692.4942359,West Coast,Savings,,14.2,0,Email,Enterprise,0
+ID_0211,35,Salaried,PhD,99176.18,712.6487288,Midwest,Savings,Loyalty program privileges are advantageous,12,0,Email,Basic,1
+ID_0212,61,Unemployed,Associate,24824.66,762.0367241,Southwest,Checking,Loyalty program perks are useful,38.8,0,Text,Basic,1
+ID_0213,61,Unemployed,PhD,852.46,730.3901254,Northeast,Savings,Loyalty program advantages are useful,16.9,1,Email,Basic,0
+ID_0214,50,Freelancer,PhD,109253.96,655.3687326,Midwest,Joint,Billing problems caused frustration that needs resolution,33.9,0,Phone,Basic,1
+ID_0215,35,Unemployed,,65206.13,693.3915718,Midwest,Checking,Highly recommend this service without hesitation,34.6,0,App,Premium,0
+ID_0216,61,Unemployed,Bachelor,153731.58,689.6322783,West Coast,Checking,Product value outstripped anticipations,45.9,0,App,Basic,0
+ID_0217,42,Self-Employed,Bachelor,146416.02,716.1389477,Midwest,Checking,Loyalty program advantages are advantageous,31.4,0,Phone,Basic,1
+ID_0218,28,Self-Employed,Associate,157555.08,741.2921829,Midwest,Checking,Loyalty program incentives are advantageous,8.2,1,Text,Basic,1
+ID_0219,28,Freelancer,Associate,56420.64,740.9102878,Midwest,Joint,Website navigation needs improvement,31.2,1,App,Enterprise,1
+ID_0220,28,Salaried,PhD,34502.16,631.1994123,Midwest,Savings,Return process was problematic,18.2,1,Email,Basic,1
+ID_0221,35,Self-Employed,Bachelor,133288.11,773.1970494,Southwest,Joint,Technical support was delayed affecting my schedule,42.9,0,Email,Premium,0
+ID_0222,50,Salaried,Associate,51016.38,732.6284423,Southwest,Savings,Billing problems caused frustration that needs resolution,59.9,0,Email,Basic,0
+ID_0223,61,Unemployed,High School,17225.89,789.2266024,Southwest,Joint,Return process was overly complex,20.5,0,Email,Basic,0
+ID_0224,42,Self-Employed,PhD,164121.6,742.2099164,Southwest,Checking,Technical support was delayed affecting my schedule,44.8,2,Text,Premium,0
+ID_0225,42,Freelancer,Master,182055.27,775.0661479,Northeast,Checking,Loyalty program advantages are advantageous,10.3,0,Phone,Basic,0
+ID_0226,35,Freelancer,PhD,53374.87,743.3272656,Southwest,Joint,Excellent customer service experience,43.3,1,Text,Basic,1
+ID_0227,28,Freelancer,Master,6691.05,787.3112878,Midwest,Joint,Website user experience needs improvement,,1,Phone,Basic,0
+ID_0228,35,Self-Employed,Bachelor,41712.8,746.1125318,Southwest,Savings,Delivery was deferred by 3 days,56.3,0,Phone,Basic,1
+ID_0229,50,Salaried,Master,138319.18,715.1042377,,Joint,Return process was overly complex,28.1,0,Phone,Premium,1
+ID_0230,50,Unemployed,Bachelor,197241.19,833.621736,West Coast,Joint,Return process was problematic,12.5,1,Email,Basic,1
+ID_0231,61,Salaried,High School,19336.98,764.4518561,Midwest,Savings,Delivery was held up by 3 days,9.7,0,Text,Premium,0
+ID_0232,61,Salaried,Master,5892.35,748.6872211,Southwest,Savings,Billing setbacks caused frustration,15.4,0,Email,Basic,0
+ID_0233,50,Unemployed,PhD,178366.06,656.1847792,Southwest,Savings,Loyalty program privileges are profitable,8,0,Phone,Basic,0
+ID_0234,50,Unemployed,Bachelor,41932.31,655.5846191,Southwest,Joint,Product grade outdid anticipations,15.2,1,Email,Premium,0
+ID_0235,50,Self-Employed,PhD,66330.97,734.6357741,Northeast,,Billing challenges caused frustration,37.6,1,App,Basic,1
+ID_0236,35,Self-Employed,Associate,292746.64,727.2760599,Southwest,Checking,Loyalty program perks are useful,34.5,2,App,Basic,0
+ID_0237,50,Self-Employed,Bachelor,5855.11,689.2938717,West Coast,Checking,Loyalty program rewards are beneficial,55.9,0,Phone,Basic,0
+ID_0238,42,Self-Employed,Master,88827.38,727.049135,Midwest,,Delivery was held up by 3 days,35.5,1,Phone,Basic,1
+ID_0239,28,Self-Employed,Bachelor,6544.57,799.4313464,Midwest,Joint,Billing challenges caused frustration,27.4,0,Phone,Premium,0
+ID_0240,50,Unemployed,PhD,40014.11,754.7701237,Southwest,Checking,Technical support was delayed causing inconvenience,34.5,0,Email,Basic,1
+ID_0241,28,,High School,138439.06,662.9495745,Southwest,Joint,Technical support was ignoring,13.1,0,Email,Basic,1
+ID_0242,35,Self-Employed,Bachelor,48299.48,714.4245586,Southwest,Joint,Billing problems caused frustration that needs resolution,32.9,0,Phone,Premium,1
+ID_0243,28,Self-Employed,Master,499107.54,679.751676,Midwest,Checking,Billing difficulties caused frustration,53,0,Email,Basic,0
+ID_0244,35,Salaried,,69601.81,700.6150042,Midwest,Savings,Product grade transcended anticipations,14.6,1,Email,Basic,0
+ID_0245,42,Self-Employed,High School,32926.7,699.3192167,Northeast,Joint,Product caliber outstripped anticipations,53.3,1,Email,Basic,1
+ID_0246,35,Salaried,Associate,21131.35,696.1177209,West Coast,Checking,Delivery was held up by 3 days,27.6,4,Email,Premium,0
+ID_0247,35,Salaried,Bachelor,36684.65,657.2432314,Northeast,Joint,Highly recommend this service without hesitation,15,1,Email,Enterprise,1
+ID_0248,61,Unemployed,PhD,39615.49,713.6172659,West Coast,Savings,Product grade transcended anticipations,26.7,0,Email,Premium,1
+ID_0249,50,Freelancer,PhD,6051.02,691.9696182,Northeast,Savings,,8.5,1,Email,Basic,1
+ID_0250,50,Unemployed,Master,39215.58,573.5275655,Midwest,Checking,Billing difficulties caused frustration,39.4,2,Email,Premium,0
+ID_0251,42,Freelancer,PhD,53045.63,822.6486012,Northeast,Joint,Competitive pricing compared to others,10.5,1,Phone,Basic,0
+ID_0252,42,Freelancer,High School,109037.28,774.4384827,,Joint,,14.8,0,App,Basic,1
+ID_0253,50,Freelancer,PhD,90885.1,701.1849638,Southwest,Joint,Technical support was delayed causing inconvenience,62.9,1,Email,Enterprise,0
+ID_0254,61,Self-Employed,Master,104858.3,720.9409525,West Coast,Joint,Billing problems caused frustration that needs resolution,23.5,1,Text,Basic,0
+ID_0255,50,Unemployed,Bachelor,713.9,661.4172826,Southwest,Checking,Billing concerns caused frustration,10,0,Email,Basic,0
+ID_0256,61,Freelancer,Bachelor,20865.4,,Midwest,Savings,Excellent customer service experience,28.3,2,Phone,Premium,1
+ID_0257,42,Salaried,,92120.94,814.8644347,West Coast,Checking,Excellent customer service experience,32.3,0,Phone,Premium,1
+ID_0258,28,Self-Employed,Associate,56238.37,727.8346864,Northeast,Joint,Delivery was deferred by 3 days,38.6,2,Phone,Basic,0
+ID_0259,42,Unemployed,,452.85,771.1765322,West Coast,Joint,Billing difficulties caused frustration,57.5,0,Phone,Basic,0
+ID_0260,42,Freelancer,PhD,138734.24,728.7643389,Southwest,Savings,Product grade outdid anticipations,21.6,1,Email,Basic,1
+ID_0261,35,Salaried,Master,125967.17,653.1637281,Midwest,Joint,Product grade outdid anticipations,27.5,0,Email,Basic,1
+ID_0262,35,Unemployed,PhD,67575.07,699.4088316,Northeast,Checking,Billing challenges caused frustration,39.8,1,Text,Basic,0
+ID_0263,35,Unemployed,Bachelor,5845.88,726.5963983,West Coast,Checking,Loyalty program perks are useful,19.2,1,Email,Basic,0
+ID_0264,35,Self-Employed,Master,123644.2,697.2726141,Southwest,Savings,Technical support was ignoring,2.2,0,Email,Enterprise,1
+ID_0265,61,Unemployed,PhD,74492.45,709.0673361,Northeast,Checking,Product grade outdid hopes,54.8,0,Email,Basic,1
+ID_0266,50,Self-Employed,High School,129461.51,715.4300221,Midwest,Checking,,31.4,3,Email,Basic,1
+ID_0267,28,Freelancer,Master,118431.08,715.9560751,Northeast,Checking,Highly recommend this service,,0,Phone,Basic,1
+ID_0268,42,Self-Employed,High School,138087.78,722.6129245,Midwest,Checking,Product caliber outstripped anticipations,25.7,1,Phone,Basic,0
+ID_0269,61,Salaried,Associate,62035.37,666.9697467,Northeast,Joint,Billing problems caused frustration requiring immediate attention,20.3,1,Email,Basic,0
+ID_0270,28,Self-Employed,Master,12852.03,684.1491925,West Coast,Checking,Delivery was deferred by 3 days,65.8,0,Email,Enterprise,1
+ID_0271,61,Salaried,High School,94534.98,655.7707867,Southwest,Savings,Billing problems caused frustration that needs resolution,38.6,1,Phone,Premium,1
+ID_0272,61,,Bachelor,82350.69,768.8907775,West Coast,Savings,Product standard transcended forecasts,16.5,1,Phone,Basic,1
+ID_0273,42,Unemployed,Bachelor,115241.09,614.7176529,West Coast,Checking,Loyalty program advantages are advantageous,25.8,0,App,Premium,1
+ID_0274,50,Freelancer,Associate,15825.83,777.6795172,Midwest,Savings,Product grade surpassed anticipations,18.5,1,App,Basic,0
+ID_0275,35,Salaried,Master,18434.99,789.3174699,Midwest,Checking,Return process was overly complex,16.2,1,App,Premium,0
+ID_0276,50,Self-Employed,Master,187935.4,704.8909707,Midwest,Savings,Loyalty program incentives are advantageous,20.1,0,Phone,Basic,1
+ID_0277,42,Self-Employed,Master,117827.47,589.8431456,West Coast,Savings,Highly recommend this service,44.1,0,Phone,Premium,1
+ID_0278,42,Self-Employed,Associate,203018.54,701.9344719,Northeast,Checking,Loyalty program incentives are advantageous,3.1,0,Email,Basic,1
+ID_0279,42,Unemployed,Master,120851.11,716.7907919,Northeast,Checking,Delivery was late by 3 days affecting my schedule,13.1,0,Phone,Basic,1
+ID_0280,28,Unemployed,Bachelor,77282.35,669.470089,West Coast,Joint,Technical support was ignoring,47.5,0,Email,Premium,1
+ID_0281,50,Salaried,High School,90244.52,694.2390803,West Coast,Checking,Delivery was postponed by 3 days,34.7,0,Text,Basic,0
+ID_0282,50,Salaried,Bachelor,186947.15,796.5097599,Southwest,Checking,Product grade beat projections,43.1,0,Email,Basic,0
+ID_0283,61,Unemployed,Bachelor,73496.4,753.2463581,Midwest,Joint,Product grade surpassed projections,52.2,2,Phone,Basic,0
+ID_0284,61,Salaried,High School,85062.58,673.7717943,Midwest,Checking,Delivery was postponed by 3 days,1,0,Email,Premium,0
+ID_0285,61,Freelancer,Bachelor,14464.26,640.1200415,West Coast,Checking,Loyalty program perks are useful,28.6,0,Phone,Basic,0
+ID_0286,42,Freelancer,Associate,54595.87,703.6491341,West Coast,Joint,Website design needs improvement,34,1,Email,Basic,0
+ID_0287,50,Unemployed,High School,107115.33,709.327161,Northeast,Checking,Technical support was delayed affecting my schedule,16.6,1,Email,Enterprise,0
+ID_0288,42,Salaried,Bachelor,26860.25,744.8099594,West Coast,Checking,Website layout needs improvement,38.3,1,Email,Basic,0
+ID_0289,28,Self-Employed,PhD,19207.05,693.2341644,Northeast,Joint,Product grade beat projections,11.9,0,Email,Basic,0
+ID_0290,61,Freelancer,Bachelor,32013.14,745.5749788,West Coast,Joint,Product grade outdid anticipations,28.7,2,Email,Premium,0
+ID_0291,42,Unemployed,Associate,23495.13,816.757702,Southwest,Savings,Loyalty program incentives are advantageous,31.7,1,Email,Premium,0
+ID_0292,42,Salaried,Master,20566.62,760.7750511,Southwest,Checking,Product standard transcended forecasts,31.7,1,Text,Enterprise,1
+ID_0293,28,Unemployed,Bachelor,47015.7,717.5955746,Northeast,Savings,Billing setbacks caused frustration,25.9,0,Email,Basic,0
+ID_0294,35,,Master,202658.1,710.8424764,Midwest,Savings,Loyalty program perks are useful,15.9,0,Email,Basic,0
+ID_0295,50,Freelancer,PhD,60126.2,702.1663433,Southwest,Joint,Delivery was pushed back by 3 days,32.8,4,App,Premium,0
+ID_0296,35,Unemployed,Bachelor,17693.34,779.0320456,Northeast,Checking,Return process was problematic,38,2,Phone,Premium,1
+ID_0297,61,Unemployed,High School,6808.1,688.6343277,West Coast,Checking,Product grade surpassed anticipations,15.9,0,Email,Premium,0
+ID_0298,42,Unemployed,Master,101255.51,722.2611354,West Coast,Joint,,20.3,3,Email,Basic,1
+ID_0299,28,Self-Employed,PhD,41017.61,722.5598951,Northeast,Savings,Loyalty program perks are useful,34.2,3,Text,Basic,0
+ID_0300,28,Unemployed,High School,146626.91,694.9107904,Midwest,Joint,Delivery was held up by 3 days,31.6,0,Email,Basic,0
+ID_0301,50,Self-Employed,High School,91576.6,651.3767226,Northeast,Checking,Loyalty program privileges are profitable,45.3,1,Email,Enterprise,0
+ID_0302,35,Self-Employed,High School,135219.66,736.1487252,Northeast,Joint,Highly recommend this service to colleagues,52.2,1,Phone,Basic,0
+ID_0303,50,Self-Employed,High School,26977.31,716.9498014,Southwest,Checking,Loyalty program perks are useful,,0,Email,Basic,1
+ID_0304,42,Freelancer,Bachelor,100199.83,745.0120235,Northeast,Savings,Loyalty program privileges are profitable,36.4,0,Text,Basic,1
+ID_0305,50,Freelancer,Bachelor,26061.8,693.3199847,Northeast,Checking,Loyalty program perks are useful,67.5,1,Email,Basic,1
+ID_0306,28,Unemployed,Bachelor,237830.4,781.0410649,West Coast,Savings,Billing problems caused frustration requiring immediate attention,18,0,Phone,Basic,0
+ID_0307,28,Unemployed,PhD,85988.57,676.1613109,Southwest,Savings,Technical support was ignoring,25.4,0,Phone,Premium,0
+ID_0308,61,Freelancer,PhD,33347.17,805.6020142,West Coast,Checking,Highly recommend this service to colleagues,36.5,0,Email,Basic,1
+ID_0309,61,Salaried,PhD,26693.59,632.6181745,West Coast,Checking,Billing problems caused frustration that needs resolution,3.9,0,Text,Basic,0
+ID_0310,42,Freelancer,Associate,18008.58,741.7385032,Midwest,Savings,Website navigation needs improvement,19.5,0,App,Basic,0
+ID_0311,35,Self-Employed,PhD,100832.7,743.7715341,Midwest,Joint,Loyalty program incentives are advantageous,2.8,0,Email,Premium,0
+ID_0312,50,Freelancer,Bachelor,20979.37,680.2221466,Southwest,Checking,Product value beat anticipations,,0,App,Enterprise,0
+ID_0313,42,Self-Employed,Bachelor,76892.47,741.2196969,Southwest,Savings,Return process was overly complex,11.9,0,Email,Premium,1
+ID_0314,61,Unemployed,Associate,26128.01,783.9759335,Midwest,Savings,Product value outstripped anticipations,16.4,0,Text,Premium,1
+ID_0315,50,Salaried,Associate,92192.49,609.159058,Midwest,Joint,Product caliber outstripped anticipations,23.6,1,Email,Basic,1
+ID_0316,61,Unemployed,PhD,143401.27,745.1372404,Midwest,Checking,Loyalty program perks are beneficial,23.3,0,Email,Premium,0
+ID_0317,50,Self-Employed,Master,127941.29,595.336459,Midwest,Savings,Return process was difficult,22.1,0,Email,Enterprise,0
+ID_0318,35,Self-Employed,Associate,121606.94,671.7167598,Midwest,Joint,Return process was confusing,37.3,0,Email,Basic,0
+ID_0319,42,Self-Employed,High School,17672.62,801.4583182,,Savings,Website user experience needs improvement,17.8,0,Email,Basic,0
+ID_0320,50,Salaried,Bachelor,7865.68,690.9108983,Southwest,Checking,Loyalty program advantages are advantageous,21.8,0,App,Enterprise,0
+ID_0321,28,,High School,102040.38,661.3060018,West Coast,Joint,Loyalty program perks are profitable,31.6,1,Text,Premium,1
+ID_0322,28,Unemployed,Bachelor,39050.31,,West Coast,Savings,Loyalty program perks are beneficial,15.4,1,Email,Basic,1
+ID_0323,50,Unemployed,Bachelor,48130.71,823.3953169,Northeast,Joint,Product caliber outstripped anticipations,13.2,0,Email,Enterprise,0
+ID_0324,50,Freelancer,Associate,2689.79,628.4158876,West Coast,Checking,Product grade transcended anticipations,17.3,1,Text,Basic,1
+ID_0325,50,Unemployed,Associate,25545.3,667.4345044,Midwest,Joint,Technical support was delayed causing inconvenience,56.2,1,Email,Basic,1
+ID_0326,28,Salaried,High School,2911.8,794.8715842,Midwest,,Loyalty program advantages are advantageous,29.5,1,Email,Premium,0
+ID_0327,28,Unemployed,Bachelor,179647.6,812.8851172,Northeast,Savings,Delivery was pushed back by 3 days,12,0,Phone,Basic,1
+ID_0328,50,,High School,23707.88,714.8284388,Northeast,Checking,Technical support was delayed affecting my schedule,7.4,1,Email,Premium,0
+ID_0329,61,Freelancer,Master,69270.49,658.0473649,Northeast,Savings,Billing concerns caused frustration,35.3,2,Email,Basic,0
+ID_0330,61,Salaried,High School,3379.54,824.7921751,Northeast,Savings,Loyalty program advantages are advantageous,19,0,Phone,Basic,0
+ID_0331,35,Freelancer,PhD,93428.14,,Northeast,Checking,Product standard transcended forecasts,42.9,0,Phone,Basic,1
+ID_0332,42,Salaried,,33160.57,753.9473494,West Coast,Savings,,50.4,1,Email,Basic,0
+ID_0333,61,Self-Employed,PhD,193969.19,679.3798826,Northeast,Joint,Product caliber transcended anticipations,26.3,2,App,Basic,0
+ID_0334,28,Freelancer,PhD,186176.54,717.548533,West Coast,Savings,Loyalty program advantages are advantageous,21.8,2,Phone,Enterprise,0
+ID_0335,61,Unemployed,PhD,33445.22,711.9819959,Southwest,Checking,Product caliber transcended anticipations,26.9,0,Email,Basic,0
+ID_0336,35,Salaried,Master,196540.44,736.5425652,Northeast,Joint,Billing problems caused frustration requiring immediate attention,10.6,1,Email,Basic,1
+ID_0337,35,Freelancer,High School,472742.57,792.5500719,Northeast,Joint,Loyalty program incentives are advantageous,18.7,0,Email,Basic,1
+ID_0338,42,Unemployed,High School,148354.53,763.9708521,West Coast,Savings,Loyalty program advantages are advantageous,15.5,0,Email,Premium,0
+ID_0339,61,Freelancer,Master,158397.54,666.1311962,Southwest,Savings,Technical support was ignoring,9.9,2,Email,Basic,0
+ID_0340,28,Freelancer,Bachelor,24340.71,788.8248225,West Coast,Checking,Return process was confusing,8.9,0,Email,Basic,0
+ID_0341,28,Freelancer,Associate,73072.78,735.656607,West Coast,Joint,Product standard transcended forecasts,50.1,2,Email,Basic,0
+ID_0342,50,Salaried,High School,5918.07,754.3532898,Northeast,Checking,Website user experience needs improvement,11.5,0,Phone,Basic,0
+ID_0343,28,Unemployed,Associate,8477.02,793.327043,Midwest,Savings,Delivery was deferred by 3 days,51.4,2,Phone,Basic,0
+ID_0344,42,Self-Employed,,578488.85,664.4209875,Midwest,Joint,Technical support was unavailable,28.8,2,Phone,Premium,0
+ID_0345,42,Salaried,Bachelor,33615.3,718.2087211,,Checking,Loyalty program rewards are beneficial,30,1,Phone,Enterprise,1
+ID_0346,28,Salaried,Bachelor,117219.78,693.4272724,Northeast,Checking,Website layout needs improvement,15.5,1,App,Basic,1
+ID_0347,28,Salaried,Bachelor,139683.15,641.6070287,,,Highly recommend this service,26.8,1,Phone,Premium,0
+ID_0348,50,Self-Employed,Master,165927.83,737.3354989,Midwest,Checking,Website navigation needs improvement,57.8,0,Email,Enterprise,0
+ID_0349,28,Unemployed,PhD,513752.51,845.5778276,Southwest,Checking,Product value beat anticipations,61.1,0,Email,Enterprise,1
+ID_0350,50,Unemployed,PhD,23494.67,627.9961128,Midwest,Joint,Loyalty program incentives are advantageous,17.3,1,Text,Enterprise,0
+ID_0351,50,Unemployed,Associate,3500.94,718.3859694,Northeast,Checking,Loyalty program rewards are beneficial,11.8,2,Email,Premium,1
+ID_0352,28,Freelancer,PhD,45020.62,752.0271468,West Coast,Joint,Product grade beat projections,26.4,2,Email,Basic,1
+ID_0353,35,Freelancer,PhD,11845.16,726.1539101,Southwest,,Delivery was late by 3 days affecting my schedule,44.4,0,Phone,Basic,0
+ID_0354,35,Freelancer,Bachelor,1927.9,714.3435974,Southwest,Savings,Return process was problematic,48.9,1,Phone,Basic,0
+ID_0355,50,Self-Employed,Bachelor,37991.11,655.0391818,West Coast,Savings,Product grade outdid hopes,57.1,0,Phone,Premium,1
+ID_0356,28,Freelancer,Associate,130157.59,731.6393371,Southwest,Checking,Competitive pricing compared to others,35.2,0,Email,Basic,0
+ID_0357,35,Self-Employed,High School,70985.81,682.1618011,Midwest,Savings,Website design needs improvement,7.8,0,Email,Basic,0
+ID_0358,28,Unemployed,Associate,31883.32,610.5039148,West Coast,Joint,Loyalty program rewards are beneficial,34.1,0,App,Basic,1
+ID_0359,28,Freelancer,Associate,90295.96,779.729611,Midwest,Checking,,14.7,2,Email,Premium,0
+ID_0360,28,Freelancer,Master,22439.08,,Midwest,Joint,Website layout needs improvement,35.3,0,Email,Premium,0
+ID_0361,61,Salaried,Master,1231.3,722.5830488,Northeast,Checking,Product grade outdid anticipations,3,1,Email,Basic,1
+ID_0362,28,Self-Employed,Associate,122860.87,731.4537344,Midwest,Savings,Technical support was delayed affecting my schedule,11.9,3,Text,Basic,0
+ID_0363,61,Unemployed,Associate,83086.06,773.7159006,Northeast,Joint,Loyalty program advantages are advantageous,28.9,0,Phone,Premium,0
+ID_0364,50,Salaried,Associate,122124.34,731.2169828,Southwest,Savings,Product caliber outstripped anticipations,20.3,0,App,Basic,1
+ID_0365,35,Salaried,PhD,3375.89,765.2008777,Southwest,,Website user experience needs improvement,34.2,0,Email,Basic,0
+ID_0366,35,Unemployed,Master,154252.84,705.12589,Northeast,Checking,Loyalty program rewards are beneficial,45.9,0,Email,Basic,1
+ID_0367,35,Salaried,Associate,82138.73,785.5991869,Midwest,Joint,Highly recommend this service without hesitation,45.3,4,Email,Enterprise,1
+ID_0368,35,Self-Employed,Bachelor,70441.81,736.0392863,West Coast,Savings,Delivery was late by 3 days affecting my schedule,44.5,1,Text,Basic,0
+ID_0369,35,Self-Employed,Bachelor,83283.05,729.7025972,West Coast,Checking,Loyalty program advantages are useful,6.2,0,Email,Basic,0
+ID_0370,35,Freelancer,PhD,169854.74,656.4969456,Northeast,Checking,Billing concerns caused frustration,22.5,1,Email,Premium,0
+ID_0371,35,Salaried,PhD,75153.09,734.3477927,Southwest,Checking,Delivery was deferred by 3 days,22.6,1,Phone,Basic,0
+ID_0372,50,Freelancer,High School,73930.1,678.4022541,,Savings,Highly recommend this service to colleagues,37,0,Email,Basic,0
+ID_0373,28,Salaried,High School,397417.69,,West Coast,Checking,Product grade surpassed anticipations,38.2,0,Phone,Basic,1
+ID_0374,42,Self-Employed,High School,120154.64,679.2312186,Northeast,Joint,Highly recommend this service to colleagues,26.2,0,Text,Enterprise,0
+ID_0375,61,Self-Employed,PhD,49633.45,666.6882534,West Coast,Joint,Loyalty program incentives are advantageous,8.7,0,Email,Basic,0
+ID_0376,42,Self-Employed,PhD,104459.78,826.2385702,Midwest,Savings,Return process was difficult,16.9,2,Email,Premium,1
+ID_0377,42,Salaried,PhD,41908.03,786.5669531,Midwest,Joint,Website user experience needs improvement,49.1,1,Email,Enterprise,0
+ID_0378,28,,Bachelor,22091.96,816.0183751,,Checking,Delivery was late by 3 days affecting my schedule,25.7,1,Email,Premium,1
+ID_0379,28,Salaried,PhD,77218.35,658.855249,Northeast,Savings,Return process was difficult,39.7,3,Email,Premium,0
+ID_0380,28,Freelancer,Bachelor,223857.83,723.5626875,Midwest,Checking,Return process was confusing,22.3,1,Phone,Premium,0
+ID_0381,35,Salaried,High School,224998.6,655.3246187,Southwest,Savings,Billing problems caused frustration requiring immediate attention,38.4,0,Email,Enterprise,1
+ID_0382,50,Freelancer,High School,35564.54,685.2152561,Northeast,Savings,Website layout needs improvement,67,0,App,Enterprise,1
+ID_0383,35,Salaried,High School,63757.92,674.0936508,Midwest,Checking,Loyalty program privileges are advantageous,62.5,2,Email,Enterprise,1
+ID_0384,50,Freelancer,Associate,20212.6,781.9792003,,Joint,Billing setbacks caused frustration,7.7,2,Email,Premium,1
+ID_0385,50,Self-Employed,Associate,461825.93,700.1885161,Southwest,Joint,Technical support was ignoring,28,0,Email,Basic,1
+ID_0386,42,Freelancer,Master,337411.01,773.4189667,Southwest,Savings,Product standard transcended forecasts,36.1,0,Phone,Basic,0
+ID_0387,42,Self-Employed,Master,89115.7,750.2060445,Southwest,Checking,Billing concerns caused frustration,16.2,1,Email,Basic,0
+ID_0388,50,Self-Employed,Master,138699.21,835.1819376,Southwest,Checking,,5.4,1,Text,Enterprise,1
+ID_0389,50,Freelancer,Associate,106727.5,646.0277888,West Coast,Savings,Product grade outdid anticipations,12.9,0,Phone,Premium,1
+ID_0390,35,Salaried,Associate,76443.13,782.961662,Southwest,Joint,Product caliber outstripped anticipations,31.9,0,App,Basic,1
+ID_0391,35,Salaried,Master,4660.02,777.3220435,West Coast,Checking,Technical support was delayed causing inconvenience,46.2,0,Phone,Basic,0
+ID_0392,42,Unemployed,Master,51555.66,671.3310581,Northeast,Joint,Loyalty program perks are useful,47.8,1,Email,Basic,0
+ID_0393,28,Salaried,PhD,95478.19,770.3566668,Midwest,Joint,Website design needs improvement,43.1,1,Text,Basic,1
+ID_0394,50,Unemployed,Master,96198.76,736.8072482,West Coast,Savings,Return process was difficult,52,4,App,Premium,0
+ID_0395,35,Salaried,PhD,39695.37,708.626187,Northeast,Savings,Website design needs improvement,13.1,0,App,Basic,1
+ID_0396,42,Salaried,Bachelor,241571.34,678.8032257,Northeast,Joint,Loyalty program privileges are profitable,25,3,Email,Basic,1
+ID_0397,35,Self-Employed,Associate,15567.78,684.0445274,West Coast,Checking,Product grade transcended forecasts,6,1,Phone,Basic,0
+ID_0398,50,Unemployed,Master,58978.64,822.4906048,Northeast,Checking,Loyalty program privileges are profitable,38.2,1,Email,Basic,1
+ID_0399,50,Salaried,Associate,99793.28,720.0341409,Northeast,Savings,Product grade outdid anticipations,6.5,0,Email,Enterprise,1
+ID_0400,61,Unemployed,Associate,101530.02,759.1065001,West Coast,Joint,Loyalty program perks are useful,43.6,1,Phone,Basic,0
+ID_0401,28,Self-Employed,Associate,88904.98,680.4550309,Northeast,Checking,Technical support was ignoring,29.2,0,App,Enterprise,1
+ID_0402,61,Self-Employed,Bachelor,27368.41,681.0073527,Southwest,Checking,Loyalty program advantages are useful,43.1,2,Phone,Basic,0
+ID_0403,42,Unemployed,High School,14437.04,774.0992405,Southwest,Savings,Billing setbacks caused frustration,27.6,2,Text,Basic,1
+ID_0404,35,Self-Employed,Master,85887.19,652.5211894,Midwest,Joint,Delivery was late by 3 days affecting my schedule,51.3,1,Email,Premium,0
+ID_0405,42,Freelancer,High School,77736.54,699.2393116,Northeast,Checking,Loyalty program rewards are beneficial,40,0,Email,Premium,1
+ID_0406,50,Freelancer,High School,16801.6,721.7013706,Midwest,Savings,Loyalty program perks are profitable,18.1,1,Phone,Basic,0
+ID_0407,61,,High School,103806.4,725.5686301,Southwest,Checking,Product value outstripped anticipations,23.8,0,Email,Basic,0
+ID_0408,61,Freelancer,Associate,51619.23,711.0453357,Southwest,Checking,Website user experience needs improvement,21.8,0,Text,Basic,1
+ID_0409,61,Salaried,PhD,93661.45,739.7909891,Southwest,Checking,Technical support was delayed causing inconvenience,2.7,1,Email,Premium,0
+ID_0410,42,Unemployed,Associate,154382.07,754.6427878,Northeast,Savings,Loyalty program incentives are advantageous,34.5,1,Email,Basic,0
+ID_0411,50,Salaried,Associate,15810.21,756.7318773,Northeast,Joint,Loyalty program advantages are advantageous,21.5,1,Phone,Basic,1
+ID_0412,35,Unemployed,High School,1643.09,670.7098096,Southwest,Savings,Delivery was postponed by 3 days,15.1,0,Email,Premium,1
+ID_0413,35,Self-Employed,Associate,128354.83,705.7922451,Midwest,Joint,Loyalty program rewards are beneficial,35.9,1,App,Basic,0
+ID_0414,42,Salaried,High School,79970.81,779.7381431,Midwest,Checking,Billing concerns caused frustration,24,0,Email,Basic,1
+ID_0415,61,,PhD,102235.63,764.7323594,West Coast,Joint,,23.7,0,Email,Basic,0
+ID_0416,28,Self-Employed,Master,154794.86,651.3570274,Southwest,Checking,Product value outstripped anticipations,4.1,1,Text,Enterprise,0
+ID_0417,42,Unemployed,High School,138005.34,737.573995,Midwest,Checking,Product grade surpassed anticipations,11.8,0,Email,Basic,0
+ID_0418,42,Unemployed,PhD,275582.6,621.0887375,Southwest,Savings,Billing challenges caused frustration,1.9,0,Text,Enterprise,1
+ID_0419,50,Unemployed,Master,65257.12,722.3467451,Midwest,Checking,Website layout needs improvement,19.7,0,Email,Basic,1
+ID_0420,35,Salaried,Bachelor,56983.93,814.8883508,West Coast,Savings,Billing challenges caused frustration,36.1,0,Email,Premium,1
+ID_0421,42,Freelancer,High School,43687.95,672.6053641,West Coast,Joint,Product grade surpassed projections,34.7,2,App,Basic,1
+ID_0422,42,Unemployed,High School,14184.02,678.2838477,Southwest,Joint,Delivery was deferred by 3 days,12.6,1,Text,Basic,0
+ID_0423,61,Unemployed,Bachelor,72254.41,758.2014891,Midwest,Checking,Product grade surpassed projections,19,2,Email,Premium,0
+ID_0424,61,Salaried,Bachelor,27570.89,642.8599242,Northeast,Savings,Return process was convoluted,12.8,1,Phone,Premium,0
+ID_0425,28,Unemployed,High School,216087.64,688.3622485,West Coast,Checking,Product grade transcended forecasts,16.5,1,App,Premium,0
+ID_0426,50,Salaried,Bachelor,74385.77,749.8220569,Southwest,Savings,Technical support was unavailable,33.2,2,Email,Premium,0
+ID_0427,28,Self-Employed,Associate,76376.71,688.2857076,Southwest,Savings,Billing challenges caused frustration,55.9,0,Email,Basic,1
+ID_0428,61,Unemployed,Master,37262.99,708.2015006,Midwest,Savings,Highly recommend this service without hesitation,21.5,0,Phone,Basic,0
+ID_0429,35,Unemployed,Master,4538.11,757.2092855,Southwest,Joint,Highly recommend this service,40.7,0,Email,Basic,0
+ID_0430,61,Self-Employed,Master,2741.97,741.0773042,West Coast,Savings,Loyalty program rewards are beneficial,17.1,0,Email,Premium,0
+ID_0431,50,Self-Employed,Associate,46791.99,733.3409198,Southwest,Joint,Product value beat anticipations,28.7,0,Text,Basic,1
+ID_0432,61,Self-Employed,Bachelor,7510.29,703.043886,Southwest,Savings,Billing setbacks caused frustration,61,0,Email,Enterprise,1
+ID_0433,50,Unemployed,PhD,79352.29,738.5030558,Northeast,Joint,Highly recommend this service without hesitation,13.4,1,Text,Basic,0
+ID_0434,50,,Bachelor,180914.42,713.813366,Northeast,Joint,Return process was difficult,2.2,0,Phone,Premium,0
+ID_0435,50,Freelancer,High School,182312.55,742.8902805,West Coast,Joint,Delivery was held up by 3 days,31.7,0,Phone,Basic,1
+ID_0436,50,Freelancer,Master,91460.51,695.1533987,Midwest,Checking,Highly recommend this service,22.3,1,Phone,Basic,0
+ID_0437,50,Unemployed,Bachelor,20169.04,710.8715513,Northeast,Savings,Billing challenges caused frustration,50.4,1,Email,Premium,1
+ID_0438,35,Self-Employed,PhD,168958.85,670.5021104,,Checking,Loyalty program perks are beneficial,53.9,1,Email,Basic,1
+ID_0439,28,,High School,184652.03,718.2496195,West Coast,Savings,Delivery was pushed back by 3 days,11.8,0,Email,Enterprise,0
+ID_0440,42,Self-Employed,Associate,18612.39,679.4499568,Northeast,Savings,Return process was problematic,19.7,0,Phone,Premium,0
+ID_0441,28,Unemployed,Associate,113663.93,664.2976775,Midwest,Checking,,68.6,0,Email,Basic,1
+ID_0442,50,Unemployed,PhD,28696.02,732.9330574,Northeast,Joint,Billing difficulties caused frustration,14.5,1,Email,Premium,0
+ID_0443,35,Self-Employed,High School,137931.83,730.6369888,West Coast,Savings,Loyalty program privileges are advantageous,5.7,1,App,Premium,0
+ID_0444,61,Freelancer,Master,500799.94,759.1436867,West Coast,Joint,Billing problems caused frustration requiring immediate attention,16,1,App,Premium,1
+ID_0445,35,Self-Employed,Bachelor,2591.31,698.4437215,Northeast,Checking,Return process was problematic,19.6,0,Email,Basic,1
+ID_0446,50,Salaried,High School,193509.7,740.4026423,Midwest,Joint,Loyalty program advantages are useful,53.2,4,Email,Basic,1
+ID_0447,35,Salaried,Associate,82835.1,747.5398786,Southwest,,Delivery was postponed by 3 days,37.6,2,Phone,Premium,1
+ID_0448,35,Self-Employed,PhD,308226.22,742.2386904,Southwest,Savings,Loyalty program perks are profitable,31,1,Text,Premium,0
+ID_0449,50,Unemployed,PhD,53168.04,678.7173159,Northeast,Savings,Website design needs improvement,24,0,Email,Basic,0
+ID_0450,35,Salaried,Bachelor,159787.77,727.4681741,Midwest,Checking,Highly recommend this service to colleagues,16,1,Email,Basic,1
+ID_0451,42,Salaried,PhD,5476.17,738.2070148,Southwest,Savings,Website layout needs improvement,8.4,0,Text,Basic,0
+ID_0452,42,Unemployed,PhD,34712.98,720.3589233,West Coast,Checking,Technical support was delayed affecting my schedule,40.2,0,App,Basic,0
+ID_0453,35,Unemployed,High School,5896.26,615.6761171,Midwest,Joint,Highly recommend this service to colleagues,1.2,2,Phone,Premium,1
+ID_0454,61,Freelancer,Master,314729.49,728.0244812,Southwest,Savings,Product grade outdid hopes,18.7,0,Email,Premium,0
+ID_0455,50,Unemployed,Bachelor,144340.76,830.626552,Midwest,Savings,Billing problems caused frustration that needs resolution,29.1,0,Email,Basic,0
+ID_0456,42,Self-Employed,High School,162711.14,701.9980366,Northeast,Savings,Loyalty program advantages are advantageous,46.1,0,Phone,Premium,0
+ID_0457,61,Self-Employed,Master,236305.12,683.5961451,Midwest,Joint,Return process was difficult,10.3,0,Email,Basic,0
+ID_0458,35,Freelancer,High School,7560.27,738.667428,Southwest,Savings,Loyalty program perks are beneficial,69.3,1,Email,Premium,0
+ID_0459,61,Salaried,High School,41403.94,735.6189105,Northeast,Checking,Product grade outdid anticipations,11.8,0,Email,Basic,0
+ID_0460,28,Salaried,PhD,6263.15,779.6367583,Midwest,Joint,Technical support was delayed causing inconvenience,44.4,0,Phone,Basic,0
+ID_0461,42,Unemployed,Master,20121.77,657.1065922,West Coast,Joint,Loyalty program advantages are advantageous,23.1,0,Phone,Premium,1
+ID_0462,35,Self-Employed,Bachelor,22146.02,756.5690126,Southwest,Joint,Website user experience needs improvement,25.2,0,Text,Basic,1
+ID_0463,50,Salaried,Bachelor,53821.59,749.5211031,Northeast,Joint,Product grade outdid anticipations,52.3,1,Phone,Basic,0
+ID_0464,35,Freelancer,Master,26583.16,712.8926732,Midwest,Joint,Loyalty program incentives are advantageous,32.4,1,App,Basic,1
+ID_0465,50,Freelancer,PhD,9048.07,736.9343659,West Coast,Checking,Website user experience needs improvement,10.2,0,Text,Basic,0
+ID_0466,35,Self-Employed,Associate,15581.47,771.4728741,Southwest,Joint,Delivery was postponed by 3 days,48,1,Email,Basic,0
+ID_0467,61,Freelancer,High School,13542.1,763.615769,West Coast,Savings,Loyalty program incentives are advantageous,42.2,0,Email,Basic,1
+ID_0468,61,Freelancer,PhD,307255.18,662.8490344,Midwest,Joint,Billing difficulties caused frustration,23,2,Phone,Enterprise,0
+ID_0469,61,Self-Employed,Master,121054.69,761.0079093,Midwest,Joint,Website design needs improvement,11.8,2,Email,Premium,1
+ID_0470,28,Unemployed,High School,291940.39,716.7655697,Northeast,Joint,Product grade beat projections,25.8,1,App,Basic,0
+ID_0471,50,Unemployed,Bachelor,49245.19,723.6437049,West Coast,Joint,Technical support was delayed causing inconvenience,19.4,0,Email,Premium,1
+ID_0472,61,Freelancer,Associate,27730.45,723.6598496,Northeast,Joint,Product grade surpassed projections,29.5,1,Email,Basic,0
+ID_0473,28,Unemployed,Bachelor,136079.91,712.4878506,Southwest,Checking,Billing challenges caused frustration,73.2,1,Phone,Basic,1
+ID_0474,50,Unemployed,Master,33566.67,779.5853749,Northeast,Checking,Highly recommend this service,25.1,0,Phone,Basic,0
+ID_0475,35,Freelancer,High School,30242.53,715.814102,Southwest,Joint,Website navigation needs improvement,24.9,0,Phone,Basic,1
+ID_0476,28,Unemployed,Master,22493.09,664.0226936,Midwest,Checking,Loyalty program advantages are useful,15.2,0,Phone,Premium,0
+ID_0477,42,,High School,11805.92,700.3235072,Midwest,Savings,Billing setbacks caused frustration,,0,Email,Basic,0
+ID_0478,28,Salaried,PhD,25188.63,728.9347358,West Coast,Joint,Highly recommend this service,22.6,0,Email,Premium,1
+ID_0479,28,Self-Employed,Associate,37315.07,781.4607392,Southwest,Savings,Website user experience needs improvement,20.4,0,App,Basic,0
+ID_0480,50,Self-Employed,PhD,95271.41,,Midwest,Savings,Technical support was delayed causing inconvenience,30.8,0,Email,Basic,1
+ID_0481,35,Unemployed,PhD,5491.65,677.4732361,West Coast,Joint,Product grade beat projections,21.3,0,Email,Premium,1
+ID_0482,42,Unemployed,Master,20090.96,844.2594958,West Coast,Savings,Loyalty program incentives are advantageous,30.4,2,Email,Basic,0
+ID_0483,61,Unemployed,Associate,140726.48,733.2387655,Northeast,Savings,Loyalty program privileges are profitable,42.7,2,Email,Basic,1
+ID_0484,61,,High School,13506.86,783.7695369,West Coast,Savings,Loyalty program incentives are advantageous,17.9,0,Phone,Basic,0
+ID_0485,28,Salaried,High School,35660.16,712.4142783,Midwest,Joint,Product grade surpassed anticipations,37.9,0,Phone,Basic,1
+ID_0486,50,Salaried,Bachelor,169996.36,746.6679622,Northeast,Joint,Highly recommend this service to colleagues,73.2,1,Phone,Enterprise,0
+ID_0487,50,Self-Employed,High School,14308.07,761.9734252,Southwest,Savings,Billing difficulties caused frustration,55.3,3,Phone,Basic,0
+ID_0488,61,Salaried,Master,7340.67,780.9097356,Southwest,Joint,Product value beat anticipations,44.1,0,Email,Basic,1
+ID_0489,42,Self-Employed,PhD,56328.79,772.8684153,Midwest,Joint,Loyalty program perks are profitable,48.3,0,Email,Premium,1
+ID_0490,35,Salaried,PhD,30611.68,763.60985,Midwest,Savings,Delivery was held up by 3 days,29.5,1,Email,Basic,0
+ID_0491,42,,PhD,70444.34,704.2456634,Northeast,,Product grade surpassed projections,66.4,1,Email,Basic,1
+ID_0492,35,Freelancer,Associate,138434.88,691.4126979,Northeast,Checking,Loyalty program advantages are useful,15.5,0,Email,Basic,0
+ID_0493,61,Self-Employed,High School,12538.58,736.6303755,Midwest,Joint,Competitive pricing compared to others,18.1,0,Email,Basic,0
+ID_0494,35,Salaried,Master,73879.15,766.6564036,Midwest,Checking,Product caliber outstripped anticipations,6.2,1,Phone,Basic,0
+ID_0495,50,Unemployed,Associate,59859.2,,Southwest,Savings,Return process was confusing,17.3,0,Phone,Basic,0
+ID_0496,28,Salaried,Bachelor,13224.04,773.2585983,Southwest,Joint,Product value beat anticipations,18.2,2,Text,Premium,0
+ID_0497,28,Freelancer,,83143.78,792.6308373,,Savings,Highly recommend this service,12.4,1,Phone,Basic,0
+ID_0498,61,Freelancer,Master,27175.36,674.183954,Midwest,Savings,Loyalty program privileges are profitable,27.2,0,Email,Basic,1
+ID_0499,50,Salaried,,56874.1,678.1539648,West Coast,Savings,Delivery was pushed back by 3 days,35.7,1,Email,Basic,1
+ID_0500,42,Salaried,PhD,7297.64,712.9812471,Midwest,Savings,Return process was overly complex,39.4,0,Email,Basic,1
+ID_0501,50,Unemployed,Master,52310.37,735.3806334,Midwest,Savings,Loyalty program perks are profitable,31.3,0,Email,Enterprise,0
+ID_0502,28,Unemployed,High School,31105.87,693.7716493,Southwest,Joint,Loyalty program advantages are advantageous,55.9,1,Email,Basic,0
+ID_0503,28,Salaried,Master,146889.83,787.6101339,Midwest,Checking,Product caliber transcended anticipations,41.7,1,Email,Basic,1
+ID_0504,50,Salaried,,4986.65,741.2033431,Northeast,Joint,Product value outstripped anticipations,44.6,1,Phone,Basic,1
+ID_0505,50,Salaried,Master,46097.95,721.9723524,Midwest,Joint,Delivery was held up by 3 days,4.1,1,Phone,Basic,0
+ID_0506,28,Salaried,Bachelor,52129.27,648.2045238,Midwest,,Return process was confusing,26.8,1,Phone,Premium,1
+ID_0507,42,Self-Employed,Bachelor,109735.53,654.2092092,,Joint,Billing concerns caused frustration,28.5,1,Email,Basic,1
+ID_0508,61,Salaried,PhD,72589.25,734.0504625,Midwest,Checking,Loyalty program rewards are beneficial,19.1,0,Phone,Basic,1
+ID_0509,61,Unemployed,High School,93521.3,613.3702187,West Coast,Joint,Technical support was delayed causing inconvenience,35.9,2,Phone,Basic,1
+ID_0510,50,Freelancer,High School,127568.39,770.6318705,Midwest,Savings,Loyalty program privileges are advantageous,7.1,1,Phone,Basic,1
+ID_0511,61,Self-Employed,,168467.75,712.0923078,Northeast,Joint,Delivery was postponed by 3 days,44.5,1,Email,Basic,0
+ID_0512,28,Salaried,PhD,32019.17,882.1546485,Northeast,Joint,Loyalty program privileges are profitable,61.4,1,Phone,Basic,1
+ID_0513,28,Freelancer,Master,65640.36,835.3958125,Midwest,Checking,Excellent customer service experience,29.8,0,Phone,Enterprise,1
+ID_0514,50,Self-Employed,,155826.86,,Southwest,Checking,Product grade surpassed anticipations,18.1,0,Email,Basic,0
+ID_0515,50,Freelancer,Associate,386897.61,714.6831499,West Coast,Savings,Highly recommend this service without hesitation,68.9,1,Email,Enterprise,0
+ID_0516,50,Salaried,PhD,187247.74,769.7790757,Midwest,Joint,Product standard transcended forecasts,12,0,Email,Basic,0
+ID_0517,42,Salaried,PhD,39471.21,805.1586305,Midwest,Joint,Delivery was held up by 3 days,7.5,0,Phone,Premium,1
+ID_0518,61,Unemployed,Associate,18455.19,638.0985471,Midwest,Joint,Return process was confusing,13.9,1,Phone,Basic,1
+ID_0519,50,Salaried,High School,57133.1,630.6812267,Southwest,Savings,Return process was overly complex,35.3,0,Email,Premium,0
+ID_0520,35,Salaried,Master,115039.59,688.8982597,Southwest,,Product grade beat projections,32.8,0,Email,Basic,0
+ID_0521,35,Self-Employed,Associate,57663.55,749.1368792,,Savings,Loyalty program advantages are useful,27,0,App,Basic,0
+ID_0522,28,Unemployed,Bachelor,56105.3,744.8436795,West Coast,Joint,Loyalty program rewards are beneficial,53.3,2,Email,Premium,1
+ID_0523,61,Self-Employed,High School,154834.5,773.4885727,Northeast,Checking,Technical support was ignoring,45.6,1,Email,Basic,1
+ID_0524,50,Freelancer,Bachelor,38121.05,660.0151236,West Coast,Checking,Return process was difficult,25.3,1,Email,Basic,1
+ID_0525,35,Salaried,High School,166995.02,604.1928069,Southwest,Savings,Loyalty program incentives are advantageous,29.5,0,Phone,Basic,0
+ID_0526,61,Freelancer,Master,44389.7,762.9007098,Northeast,Checking,Website design needs improvement,24.5,0,Phone,Basic,0
+ID_0527,28,Self-Employed,Master,33816.73,678.5901864,Northeast,Checking,Return process was problematic,40.1,0,Email,Basic,0
+ID_0528,42,Salaried,PhD,51435.02,619.0756068,Southwest,Joint,Product grade transcended forecasts,49.1,0,App,Basic,0
+ID_0529,61,Salaried,Bachelor,122175.97,727.2531873,Southwest,Joint,Product grade transcended anticipations,19.4,1,Phone,Basic,1
+ID_0530,61,Self-Employed,High School,11447.56,759.6587844,West Coast,Checking,Loyalty program rewards are beneficial,37,0,Email,Basic,1
+ID_0531,42,Self-Employed,Master,18587.59,713.8971434,Southwest,Checking,Website layout needs improvement,6.4,0,Phone,Basic,1
+ID_0532,61,Self-Employed,Associate,257129.63,697.1075807,Northeast,Savings,Product grade surpassed projections,6,2,Email,Basic,1
+ID_0533,28,Self-Employed,Master,16402.28,712.0318884,Midwest,Savings,Technical support was delayed affecting my schedule,28.1,0,Phone,Basic,0
+ID_0534,28,Self-Employed,Associate,71289.39,701.4708619,Southwest,Checking,Technical support was delayed causing inconvenience,42.4,1,Email,Enterprise,1
+ID_0535,42,Salaried,High School,73598.92,652.5976444,Southwest,Joint,Highly recommend this service,7.2,0,Phone,Basic,1
+ID_0536,50,Self-Employed,Master,57171.72,684.2659662,West Coast,Checking,Product caliber outstripped anticipations,20.4,0,Email,Enterprise,1
+ID_0537,35,Salaried,Master,87968.21,746.0639953,,Checking,Technical support was delayed causing inconvenience,34.1,1,Text,Premium,0
+ID_0538,50,Salaried,High School,22196.88,736.0839271,Southwest,Joint,Product standard transcended forecasts,52.5,2,Email,Enterprise,0
+ID_0539,61,Self-Employed,Master,68377.52,728.4029903,Northeast,Joint,Website layout needs improvement,48.5,0,Phone,Premium,0
+ID_0540,35,Self-Employed,Associate,39566.74,670.2425759,Northeast,Savings,Highly recommend this service without hesitation,20.1,0,Email,Premium,1
+ID_0541,42,Unemployed,Master,92116.66,,Midwest,Savings,Excellent customer service experience,29.9,3,App,Basic,1
+ID_0542,42,Salaried,Bachelor,12940.96,611.1467477,Southwest,Savings,Technical support was ignoring,30.7,1,Phone,Basic,0
+ID_0543,35,Self-Employed,PhD,71911.08,728.9238332,West Coast,Savings,Product standard transcended forecasts,8.3,2,Email,Basic,1
+ID_0544,28,Self-Employed,,17416.41,791.4428854,Northeast,Joint,Technical support was ignoring,8.2,1,App,Enterprise,1
+ID_0545,35,Self-Employed,Bachelor,27762.8,646.2933934,Midwest,Checking,Product caliber transcended anticipations,70.4,0,Email,Enterprise,0
+ID_0546,61,Unemployed,High School,20978.73,690.7036163,Southwest,Savings,Loyalty program advantages are advantageous,7.5,0,Phone,Premium,0
+ID_0547,28,Unemployed,Associate,17163,736.4553389,,Savings,Highly recommend this service to colleagues,40.7,0,Phone,Premium,1
+ID_0548,42,Freelancer,PhD,148498.41,782.6421317,Southwest,Joint,,15.2,0,Email,Enterprise,0
+ID_0549,35,Salaried,PhD,28599.34,697.5887692,Southwest,Joint,Loyalty program incentives are advantageous,47.9,1,App,Basic,1
+ID_0550,50,Freelancer,High School,222614.4,685.3874835,Northeast,Checking,Loyalty program privileges are advantageous,18.9,0,Email,Premium,0
+ID_0551,50,Self-Employed,High School,297849.5,621.5538429,Northeast,Checking,Loyalty program advantages are useful,,0,Email,Basic,1
+ID_0552,61,Unemployed,Associate,71986.98,725.1719065,Northeast,Joint,Excellent customer service experience,31.3,1,Text,Basic,0
+ID_0553,50,Unemployed,Master,13117.09,822.103802,Southwest,Savings,Loyalty program privileges are profitable,12.2,0,Phone,Basic,0
+ID_0554,35,Freelancer,High School,39888.89,733.8679231,Southwest,Savings,,2.8,0,Email,Basic,1
+ID_0555,35,Unemployed,Master,135843.86,718.886051,Midwest,Savings,Return process was convoluted,29.8,0,Email,Premium,0
+ID_0556,50,Self-Employed,Bachelor,38921.7,736.1041155,West Coast,Checking,Loyalty program privileges are advantageous,,1,Phone,Basic,0
+ID_0557,35,Unemployed,PhD,7738.25,719.4453998,Southwest,Savings,Technical support was delayed causing inconvenience,56,1,Email,Premium,0
+ID_0558,61,Freelancer,Master,69164.51,679.3492814,West Coast,Savings,Website navigation needs improvement,3.4,1,App,Basic,1
+ID_0559,28,Self-Employed,PhD,158534.36,761.1639958,Northeast,Joint,Product grade surpassed anticipations,20.7,0,Phone,Basic,1
+ID_0560,61,Freelancer,Master,135088.33,731.2880762,Southwest,Savings,Excellent customer service experience,12.7,0,Email,Premium,1
+ID_0561,61,Unemployed,Bachelor,16364.3,720.8806626,Midwest,Joint,Delivery was late by 3 days affecting my schedule,31.9,0,Email,Premium,0
+ID_0562,35,Freelancer,High School,94951.42,671.2316986,Midwest,Savings,Billing concerns caused frustration,55.4,1,Phone,Basic,0
+ID_0563,28,,Bachelor,21174.19,785.1753966,West Coast,Checking,Billing problems caused frustration that needs resolution,18.1,0,Email,Basic,0
+ID_0564,35,Salaried,High School,20924.11,753.2351373,Northeast,Savings,Return process was overly complex,6.5,2,Phone,Basic,0
+ID_0565,42,Unemployed,High School,176123.67,692.3539581,West Coast,Savings,Product caliber outstripped anticipations,36.3,0,App,Enterprise,0
+ID_0566,35,Unemployed,PhD,24415.47,770.0912427,Northeast,Joint,Product grade beat projections,47.9,0,Phone,Premium,0
+ID_0567,35,Freelancer,Bachelor,25967.76,695.1214581,Midwest,Joint,,62.7,4,Email,Basic,0
+ID_0568,35,Salaried,Master,55.56,680.8998254,West Coast,Joint,Delivery was postponed by 3 days,6.8,0,Email,Basic,1
+ID_0569,28,Unemployed,Bachelor,173857.35,682.0148441,Midwest,Savings,Product grade outdid anticipations,15,0,Phone,Premium,0
+ID_0570,35,Self-Employed,PhD,133711.88,631.4465723,Midwest,Savings,Excellent customer service experience,4.6,2,Phone,Premium,0
+ID_0571,28,Freelancer,High School,83900.02,743.577119,Northeast,Checking,Technical support was delayed causing inconvenience,81.9,2,Phone,Premium,1
+ID_0572,50,Unemployed,PhD,117925.43,628.4427561,West Coast,Savings,Highly recommend this service,61.2,1,Email,Basic,0
+ID_0573,42,Self-Employed,Associate,14019.21,658.5778084,West Coast,Checking,Billing problems caused frustration requiring immediate attention,24.2,0,Text,Premium,1
+ID_0574,28,Unemployed,Associate,52112.35,616.2205995,Midwest,Joint,Product standard transcended forecasts,29.9,0,Email,Premium,1
+ID_0575,50,Self-Employed,Master,36776.16,715.6965154,Midwest,Joint,Loyalty program rewards are beneficial,35.7,1,Phone,Premium,1
+ID_0576,28,Freelancer,PhD,8369.89,712.483977,Northeast,Joint,Website navigation needs improvement,27.9,0,Phone,Basic,0
+ID_0577,28,Unemployed,Master,56591.8,703.6651893,Southwest,Checking,Delivery was held up by 3 days,10.6,2,Phone,Premium,1
+ID_0578,42,Unemployed,Master,215476.47,,Southwest,Savings,Loyalty program advantages are advantageous,19,0,Email,Premium,0
+ID_0579,61,Salaried,Associate,3475.1,661.3883123,Midwest,Joint,Website design needs improvement,5.7,1,Phone,Premium,0
+ID_0580,61,Freelancer,Master,29286.75,743.2184932,Southwest,Savings,Highly recommend this service without hesitation,30.3,0,Email,Basic,0
+ID_0581,28,Self-Employed,Associate,19772.23,692.4724034,Southwest,Savings,Delivery was pushed back by 3 days,31.9,0,Phone,Basic,1
+ID_0582,35,Unemployed,High School,23120.1,735.8179161,Southwest,Joint,Website design needs improvement,29,0,Email,Basic,0
+ID_0583,50,Unemployed,PhD,203209.61,675.7375657,Southwest,Checking,Billing problems caused frustration requiring immediate attention,54.7,1,Email,Basic,0
+ID_0584,35,Self-Employed,Master,53655.54,729.0531371,Midwest,Savings,Billing concerns caused frustration,17.2,0,Email,Basic,1
+ID_0585,35,Freelancer,Associate,53373.23,785.1639019,Southwest,Joint,Loyalty program advantages are useful,22,2,Text,Basic,0
+ID_0586,28,Salaried,Bachelor,121509.01,749.30829,Southwest,Savings,Website user experience needs improvement,17.2,0,Phone,Basic,0
+ID_0587,28,Salaried,Master,14264.52,699.3793091,Northeast,Savings,Return process was confusing,54.5,1,Phone,Premium,0
+ID_0588,28,Unemployed,High School,56779.73,732.8599485,Midwest,Savings,Delivery was late by 3 days affecting my schedule,40.9,2,Phone,Basic,0
+ID_0589,28,Self-Employed,High School,47777.9,707.9667413,West Coast,Savings,Product value beat anticipations,5.3,0,Text,Basic,0
+ID_0590,61,Unemployed,Bachelor,77230.76,720.3940092,West Coast,Savings,Highly recommend this service without hesitation,17.2,0,Email,Premium,0
+ID_0591,28,Self-Employed,Associate,656500.01,703.7194474,Northeast,Checking,Loyalty program perks are beneficial,21.3,0,Phone,Basic,1
+ID_0592,61,Salaried,Master,124719.03,711.7832397,,Checking,Return process was overly complex,24,0,Phone,Basic,0
+ID_0593,61,Freelancer,Associate,43118.36,730.6046677,Midwest,Joint,Highly recommend this service to colleagues,38.2,0,Email,Basic,0
+ID_0594,28,Self-Employed,High School,149401.58,670.332065,West Coast,Checking,Product standard transcended forecasts,48.8,1,Email,Basic,1
+ID_0595,42,Salaried,Associate,15910.59,669.2060587,Southwest,Checking,Product grade transcended forecasts,49.5,1,Email,Basic,0
+ID_0596,50,Unemployed,High School,2629.67,650.5728723,Northeast,Checking,Product grade outdid hopes,17.7,0,Email,Basic,1
+ID_0597,35,Self-Employed,Associate,19441.16,639.9864448,West Coast,Savings,Return process was overly complex,11,2,Email,Enterprise,0
+ID_0598,61,Freelancer,Bachelor,35371.83,659.1358654,Midwest,Savings,Delivery was deferred by 3 days,5.5,0,Email,Basic,0
+ID_0599,50,Unemployed,PhD,60735.54,727.9731253,Southwest,Joint,Billing problems caused frustration requiring immediate attention,,1,Phone,Basic,0
+ID_0600,42,Unemployed,Bachelor,81162.03,675.3606242,Midwest,Joint,Website layout needs improvement,24.7,0,Email,Premium,0
+ID_0601,35,Salaried,Bachelor,205249.38,745.6807232,Northeast,Joint,Product grade transcended forecasts,29.1,1,Email,Basic,0
+ID_0602,35,Self-Employed,PhD,60609.42,721.7356874,West Coast,Savings,Delivery was late by 3 days affecting my schedule,33.3,0,App,Basic,0
+ID_0603,61,Unemployed,PhD,59134.65,621.5747893,West Coast,Checking,Delivery was held up by 3 days,12.2,2,Phone,Premium,0
+ID_0604,28,Freelancer,Master,4381.68,752.7487792,West Coast,Checking,Billing problems caused frustration requiring immediate attention,21.9,1,Email,Basic,0
+ID_0605,42,Self-Employed,,3020.52,760.5399323,West Coast,Savings,Loyalty program advantages are advantageous,31.7,2,Phone,Enterprise,0
+ID_0606,61,Freelancer,Bachelor,68092.54,670.3068663,Southwest,Joint,Billing challenges caused frustration,37.5,0,Email,Basic,0
+ID_0607,42,,Bachelor,49008.56,741.0095771,Southwest,Joint,Return process was problematic,10.4,0,Email,Premium,0
+ID_0608,28,Freelancer,High School,155335.12,677.1750881,Midwest,Joint,Product grade surpassed projections,49.5,1,Email,Basic,0
+ID_0609,28,Salaried,High School,14888.83,724.8835188,Southwest,Savings,Billing concerns caused frustration,14.2,0,App,Basic,1
+ID_0610,61,Freelancer,,2149.54,656.7750797,Northeast,Joint,Loyalty program privileges are profitable,22.6,0,Phone,Premium,0
+ID_0611,28,Self-Employed,Master,50667.72,630.3446774,Northeast,Joint,Product grade transcended forecasts,10.8,0,Phone,Enterprise,1
+ID_0612,50,Freelancer,High School,23045.6,700.8591405,West Coast,Savings,,34.7,0,App,Premium,1
+ID_0613,35,Freelancer,High School,4325.43,713.8135527,Northeast,Checking,Technical support was ignoring,5.5,0,App,Premium,0
+ID_0614,61,Salaried,Associate,109609.58,700.1160153,Midwest,Savings,Highly recommend this service to colleagues,46.5,1,Phone,Enterprise,1
+ID_0615,42,Freelancer,Associate,10057.65,,Southwest,,Loyalty program rewards are beneficial,48.6,3,Phone,Basic,1
+ID_0616,50,Freelancer,High School,79671.25,700.0050469,Southwest,Savings,Loyalty program perks are profitable,17.9,1,Email,Basic,0
+ID_0617,61,Unemployed,Associate,28046.86,733.4647376,Southwest,Savings,Loyalty program privileges are profitable,30.8,0,Email,Basic,0
+ID_0618,28,Unemployed,,16196.8,717.7553485,Northeast,Checking,Product value outstripped anticipations,40.9,0,Phone,Premium,1
+ID_0619,28,Self-Employed,Master,40598.98,729.1250515,Southwest,Joint,Billing challenges caused frustration,30.3,1,Phone,Premium,1
+ID_0620,28,Unemployed,Master,137418.91,686.49424,West Coast,Savings,Loyalty program privileges are profitable,26.6,0,App,Premium,0
+ID_0621,28,Unemployed,High School,42307.42,778.5858957,West Coast,Checking,,,1,Email,Enterprise,0
+ID_0622,42,,Bachelor,118097.11,661.1913332,West Coast,Joint,Delivery was postponed by 3 days,31.5,0,Phone,Premium,0
+ID_0623,50,Unemployed,High School,11397.42,744.3780149,Northeast,Joint,Product caliber transcended anticipations,68.1,0,Phone,Basic,0
+ID_0624,35,Salaried,Associate,125952.9,779.0945546,Southwest,Joint,Highly recommend this service,8.2,0,Email,Basic,1
+ID_0625,42,Unemployed,Bachelor,22984.84,744.0454046,Northeast,Savings,Loyalty program privileges are advantageous,42.1,0,Phone,Enterprise,0
+ID_0626,42,Salaried,Associate,96162.27,709.8737886,Southwest,Savings,Billing challenges caused frustration,37,3,Phone,Basic,0
+ID_0627,35,Salaried,PhD,70907.64,693.5851477,Midwest,Joint,Loyalty program advantages are useful,42.1,2,Email,Basic,1
+ID_0628,35,Unemployed,Associate,225004.84,771.8043826,Midwest,Joint,Technical support was ignoring,34.4,1,Phone,Basic,0
+ID_0629,28,,PhD,41642.91,648.8512537,Northeast,Joint,Billing problems caused frustration that needs resolution,34.4,0,Email,Basic,0
+ID_0630,42,Salaried,PhD,5818.74,671.493787,West Coast,Joint,Product caliber transcended anticipations,28.6,1,Email,Premium,1
+ID_0631,61,Freelancer,Associate,1644.01,700.1221117,Northeast,,Product grade outdid hopes,31.1,1,Phone,Basic,1
+ID_0632,35,Freelancer,Associate,149059.95,781.8826879,West Coast,Joint,Loyalty program perks are profitable,34.4,0,Email,Enterprise,0
+ID_0633,35,Unemployed,PhD,63230.15,738.9883818,,Checking,Return process was difficult,22.9,1,Email,Basic,0
+ID_0634,50,Self-Employed,Bachelor,126882.91,671.5977121,West Coast,Joint,Billing challenges caused frustration,8.3,0,Email,Premium,0
+ID_0635,61,Unemployed,PhD,22705.95,704.4846147,West Coast,Savings,Loyalty program incentives are advantageous,48.8,0,Email,Premium,0
+ID_0636,61,Self-Employed,Master,35976.07,689.2838428,Southwest,Savings,Billing challenges caused frustration,25.4,1,Email,Premium,0
+ID_0637,35,Self-Employed,PhD,2598.14,684.5105504,Midwest,Savings,Technical support was delayed causing inconvenience,29.7,2,Email,Enterprise,0
+ID_0638,28,Unemployed,Bachelor,276836.3,768.9444779,Southwest,Joint,Website design needs improvement,8.3,0,Phone,Basic,0
+ID_0639,50,Unemployed,Master,93688.91,651.4128435,Northeast,Savings,Product value outstripped anticipations,28.8,0,Text,Basic,0
+ID_0640,61,Self-Employed,High School,230020.91,800.4390428,Northeast,Checking,Technical support was delayed causing inconvenience,11.4,1,Email,Basic,0
+ID_0641,35,Unemployed,High School,26227.63,761.4114845,Northeast,Joint,Billing concerns caused frustration,15.1,0,Email,Premium,0
+ID_0642,61,Self-Employed,Bachelor,80356.32,774.5430835,Northeast,,Return process was overly complex,48.8,0,Email,Enterprise,0
+ID_0643,50,Freelancer,PhD,96454.4,696.8530244,Northeast,Checking,Delivery was pushed back by 3 days,10.7,0,Email,Basic,0
+ID_0644,50,Unemployed,Associate,32475.57,712.502964,Midwest,Checking,Billing problems caused frustration that needs resolution,30.4,1,Phone,Premium,0
+ID_0645,42,Freelancer,Bachelor,160190.46,648.3424093,Midwest,Savings,Technical support was delayed affecting my schedule,17,0,Text,Basic,1
+ID_0646,35,Salaried,Master,249943.73,693.7668796,West Coast,Checking,Competitive pricing compared to others,5.7,0,Text,Basic,0
+ID_0647,50,Freelancer,,183732.95,744.6827424,Northeast,Savings,Return process was confusing,57.2,1,Email,Premium,1
+ID_0648,42,Freelancer,High School,114196.78,784.8031531,Southwest,Checking,Highly recommend this service to colleagues,28.2,0,App,Basic,1
+ID_0649,42,Self-Employed,Master,27624.06,664.6421592,Northeast,Joint,Product value outstripped anticipations,6,1,Email,Basic,0
+ID_0650,61,Freelancer,Bachelor,28113.84,701.7247032,Midwest,Joint,Technical support was ignoring,8.9,1,Phone,Premium,0
+ID_0651,61,Unemployed,Master,281063,712.435039,Northeast,Joint,Return process was overly complex,52,1,Phone,Premium,0
+ID_0652,42,Self-Employed,Bachelor,878.71,650.2105399,Midwest,Joint,Billing challenges caused frustration,42,0,Phone,Basic,0
+ID_0653,61,Salaried,Associate,107011.35,749.5674621,West Coast,Joint,Product grade transcended anticipations,29.2,1,Email,Premium,1
+ID_0654,50,Unemployed,High School,104126.12,683.8004834,West Coast,Savings,Loyalty program perks are beneficial,6.6,0,Email,Basic,0
+ID_0655,28,Salaried,Master,82848.39,710.2304824,West Coast,Joint,Product grade outdid anticipations,29.5,0,Phone,Basic,0
+ID_0656,50,Freelancer,Bachelor,392369.73,697.4025314,Midwest,Joint,Product grade beat projections,31.5,0,Email,Premium,0
+ID_0657,42,Unemployed,PhD,31772.25,680.5330747,Northeast,Joint,Billing concerns caused frustration,10,0,Email,Basic,0
+ID_0658,42,Unemployed,High School,35315.19,719.6477507,Northeast,Joint,Delivery was pushed back by 3 days,37.2,0,Phone,Basic,1
+ID_0659,50,Salaried,Associate,6989.5,709.2195211,Southwest,Checking,Highly recommend this service,18.3,2,Email,Basic,0
+ID_0660,61,Unemployed,Bachelor,49710.35,701.4071059,Midwest,Joint,Product value beat anticipations,18.6,2,Phone,Premium,0
+ID_0661,61,Unemployed,Associate,25714.46,683.5769189,Southwest,Joint,Delivery was held up by 3 days,27.1,0,Email,Basic,1
+ID_0662,42,Unemployed,Associate,35756.1,735.9762335,West Coast,Savings,Product grade outdid hopes,62.2,1,Text,Basic,1
+ID_0663,35,Freelancer,Master,152933.53,802.6808634,Northeast,Checking,Loyalty program advantages are advantageous,27.5,0,Email,Basic,0
+ID_0664,61,Salaried,Master,232972.25,726.9943616,Midwest,Savings,Product grade outdid anticipations,49,0,Text,Basic,0
+ID_0665,50,Unemployed,Bachelor,17464.7,769.8059107,Southwest,Joint,Product standard transcended forecasts,18.6,2,Email,Basic,0
+ID_0666,61,Self-Employed,PhD,39612.2,650.4889037,Southwest,Savings,Product grade transcended forecasts,44,1,Phone,Basic,0
+ID_0667,50,Self-Employed,Bachelor,224390.27,727.888072,Southwest,Savings,Delivery was late by 3 days affecting my schedule,42.1,0,Text,Premium,0
+ID_0668,42,Self-Employed,PhD,5423.1,665.1315841,Northeast,Joint,Loyalty program privileges are advantageous,49.4,0,Email,Premium,0
+ID_0669,61,Self-Employed,Associate,8237.18,646.1537536,Northeast,Checking,Loyalty program perks are profitable,5.8,1,Email,Premium,0
+ID_0670,50,Freelancer,High School,15102.93,683.0314296,Northeast,Checking,,16.7,0,Email,Basic,0
+ID_0671,42,Unemployed,Bachelor,76873.48,779.5949667,Midwest,Savings,Delivery was held up by 3 days,28,2,Email,Basic,1
+ID_0672,35,Salaried,Bachelor,13861.35,767.5007914,Northeast,Joint,Product grade transcended anticipations,53,0,Phone,Basic,0
+ID_0673,50,Unemployed,PhD,292774.78,732.1502361,Midwest,Savings,Product grade transcended anticipations,7.9,1,Email,Basic,0
+ID_0674,35,Freelancer,Associate,50309.9,643.364972,Southwest,Savings,Return process was convoluted,37.9,0,Text,Basic,0
+ID_0675,35,Self-Employed,Associate,59175.96,710.1859674,Southwest,Savings,Website layout needs improvement,27.2,1,Phone,Premium,1
+ID_0676,28,Freelancer,PhD,24075.13,735.0850004,West Coast,Joint,Return process was confusing,44.2,1,Email,Basic,0
+ID_0677,61,Unemployed,Associate,54118.8,728.7768115,Northeast,Joint,Return process was problematic,14.3,1,Text,Basic,0
+ID_0678,50,Salaried,Master,92178.58,627.8103208,Southwest,Checking,Return process was confusing,18.9,2,Email,Basic,1
+ID_0679,35,Freelancer,High School,118236.19,675.4841076,Northeast,Joint,Delivery was pushed back by 3 days,23.4,1,Email,Basic,1
+ID_0680,28,Salaried,Bachelor,119160.45,716.7961118,Midwest,Savings,Loyalty program rewards are beneficial,4.2,3,Email,Enterprise,1
+ID_0681,42,Freelancer,High School,73311.82,746.8145455,Southwest,Savings,Product standard transcended forecasts,41.1,1,Phone,Basic,0
+ID_0682,50,Salaried,Bachelor,199508.75,610.1936089,Northeast,Checking,Delivery was postponed by 3 days,28.8,0,Email,Premium,0
+ID_0683,35,Salaried,Master,144542.52,711.8938012,Southwest,Joint,Technical support was delayed affecting my schedule,12.6,1,Phone,Basic,1
+ID_0684,61,Self-Employed,Associate,120265.81,727.1524385,Southwest,Savings,Return process was difficult,15.5,2,Email,Premium,1
+ID_0685,28,Salaried,PhD,4862.96,762.4805994,Northeast,Checking,Product caliber transcended anticipations,19.7,0,App,Basic,0
+ID_0686,35,Self-Employed,Master,586.65,754.6428792,Southwest,Checking,Return process was overly complex,24.7,0,Phone,Enterprise,0
+ID_0687,61,Unemployed,High School,20300.12,749.1285659,Southwest,Savings,Product grade beat projections,23.3,1,Email,Basic,0
+ID_0688,35,Unemployed,PhD,92584.32,680.0029747,Southwest,Savings,Product value outstripped anticipations,52,0,Phone,Basic,1
+ID_0689,50,Self-Employed,Associate,45021.48,624.5998931,Southwest,Joint,Billing concerns caused frustration,28.6,4,Phone,Basic,0
+ID_0690,50,Self-Employed,Master,43761.75,700.3473621,Midwest,Checking,Website navigation needs improvement,28.6,0,Email,Basic,0
+ID_0691,50,Freelancer,PhD,183535.17,770.0815913,Southwest,Savings,Return process was overly complex,,1,Email,Basic,0
+ID_0692,28,Freelancer,Master,192029.43,789.6727264,West Coast,Checking,Loyalty program privileges are advantageous,54,1,Email,Premium,0
+ID_0693,50,Freelancer,Master,203900.01,755.5274551,Southwest,Joint,Website design needs improvement,12.4,1,Text,Basic,0
+ID_0694,61,Unemployed,Associate,32019.49,741.4670411,Northeast,Savings,Technical support was unavailable,34,0,Phone,Basic,0
+ID_0695,35,Freelancer,Bachelor,99840.54,738.9819824,West Coast,Joint,Return process was convoluted,48.5,1,Email,Premium,1
+ID_0696,42,Salaried,PhD,26940.79,692.1940627,Midwest,Checking,,25,2,Email,Basic,0
+ID_0697,61,Salaried,Associate,17975.31,713.4969853,West Coast,Joint,Billing problems caused frustration that needs resolution,26.3,2,Email,Basic,0
+ID_0698,61,Freelancer,Master,17349.89,803.4534763,West Coast,Joint,Billing concerns caused frustration,8.3,0,Phone,Enterprise,0
+ID_0699,50,Salaried,Associate,35590.68,672.8720997,West Coast,Checking,Product standard transcended forecasts,37.2,1,Phone,Enterprise,0
+ID_0700,28,Unemployed,Bachelor,47773.79,800.7389395,Northeast,Joint,Return process was convoluted,50.6,2,App,Premium,0
+ID_0701,35,Salaried,PhD,151092.25,703.8985923,Northeast,Checking,Loyalty program advantages are useful,57.5,0,Email,Premium,0
+ID_0702,28,Unemployed,Bachelor,10855.32,786.2716055,Northeast,Savings,Loyalty program advantages are useful,15.3,0,Email,Basic,0
+ID_0703,35,Self-Employed,,112858.38,,Midwest,Checking,Technical support was unavailable,11.4,1,Email,Enterprise,0
+ID_0704,35,Self-Employed,PhD,64440.45,749.2952101,Northeast,Checking,Delivery was postponed by 3 days,21.7,0,Text,Basic,0
+ID_0705,28,Self-Employed,Bachelor,28866.05,683.1614932,Northeast,Savings,Product grade beat projections,18.3,1,Email,Basic,1
+ID_0706,61,Self-Employed,Master,57705.52,649.2366404,West Coast,Checking,Website design needs improvement,7.8,1,Email,Premium,0
+ID_0707,35,Salaried,PhD,30310.34,730.9267021,Northeast,Savings,Return process was overly complex,4.7,0,Phone,Basic,1
+ID_0708,28,Freelancer,PhD,77056.18,770.4735894,Southwest,Savings,Loyalty program privileges are profitable,15.2,0,Email,Basic,0
+ID_0709,35,Salaried,Associate,48355.27,677.7529281,Northeast,Checking,Loyalty program rewards are beneficial,11.7,1,Email,Basic,1
+ID_0710,42,Unemployed,Master,15267.01,645.049202,Midwest,Joint,Website design needs improvement,49.3,0,Phone,Basic,1
+ID_0711,61,Salaried,High School,10536.43,715.4077618,Midwest,Joint,Technical support was delayed affecting my schedule,,0,Email,Basic,0
+ID_0712,50,,Bachelor,67251.29,715.6282336,Southwest,Savings,Loyalty program rewards are beneficial,18,0,Email,Basic,0
+ID_0713,35,Unemployed,Associate,197795.96,747.4159814,Midwest,Joint,Loyalty program privileges are profitable,7.6,1,Email,Basic,0
+ID_0714,42,Self-Employed,Bachelor,35830.05,767.4797286,Midwest,Joint,Loyalty program advantages are useful,20.4,1,Email,Basic,0
+ID_0715,50,Self-Employed,High School,112243.1,717.0292409,West Coast,Checking,Billing problems caused frustration requiring immediate attention,45.9,2,Email,Basic,1
+ID_0716,50,Self-Employed,High School,91364.82,812.7751657,Southwest,Savings,Billing problems caused frustration that needs resolution,26.3,1,App,Basic,1
+ID_0717,35,Freelancer,PhD,227946.5,731.2117372,West Coast,Savings,Loyalty program advantages are advantageous,4,1,Email,Enterprise,1
+ID_0718,28,Unemployed,High School,146222.39,702.6786747,West Coast,Checking,Loyalty program privileges are profitable,20.3,0,Phone,Basic,0
+ID_0719,35,Unemployed,Bachelor,71069.04,639.421632,Northeast,Joint,Website user experience needs improvement,20.6,1,Email,Premium,1
+ID_0720,42,Salaried,Master,90959.67,706.867024,Southwest,Savings,Loyalty program perks are profitable,17.6,1,Email,Basic,1
+ID_0721,50,Freelancer,Master,194359.18,703.1806527,Northeast,Joint,Delivery was late by 3 days affecting my schedule,44.7,2,Email,Basic,0
+ID_0722,35,Self-Employed,PhD,43352.03,768.0152398,Northeast,Savings,Loyalty program perks are useful,52.8,1,Email,Basic,0
+ID_0723,28,Freelancer,Bachelor,33634.92,743.1241812,West Coast,Savings,Delivery was late by 3 days affecting my schedule,54.8,1,Email,Basic,1
+ID_0724,35,Unemployed,Bachelor,923.95,661.0315439,Midwest,Savings,Product value beat anticipations,27.8,1,Email,Basic,0
+ID_0725,61,Unemployed,High School,148909.13,728.6127193,Southwest,Savings,,67.4,0,Phone,Basic,1
+ID_0726,28,Salaried,Bachelor,137220.05,753.5765586,Midwest,Joint,Loyalty program privileges are profitable,37.3,0,Email,Basic,0
+ID_0727,42,Salaried,Associate,9377.39,796.401568,West Coast,Joint,Loyalty program perks are profitable,6.4,0,App,Basic,1
+ID_0728,50,Unemployed,High School,73103.91,764.3751984,West Coast,Joint,Technical support was ignoring,27.1,2,Email,Premium,0
+ID_0729,35,Self-Employed,Associate,53004.89,758.0423327,West Coast,Joint,Technical support was delayed causing inconvenience,31.7,1,Email,Enterprise,0
+ID_0730,28,Self-Employed,PhD,10741.24,723.0042997,West Coast,Checking,Website layout needs improvement,1,0,Email,Basic,0
+ID_0731,61,Freelancer,Master,334971.89,739.4156003,West Coast,Savings,Loyalty program privileges are profitable,15.6,0,Email,Premium,1
+ID_0732,28,Unemployed,PhD,20543.16,782.475245,West Coast,Savings,Loyalty program rewards are beneficial,13.2,1,Phone,Premium,1
+ID_0733,61,Unemployed,,5916.09,,,Savings,Billing setbacks caused frustration,6.4,1,Phone,Basic,0
+ID_0734,42,Self-Employed,PhD,76796.77,702.5280336,Northeast,Checking,Delivery was pushed back by 3 days,31.5,2,Email,Premium,0
+ID_0735,50,Self-Employed,Bachelor,114131.56,681.3715626,Midwest,Joint,Loyalty program advantages are useful,7,0,Email,Enterprise,1
+ID_0736,42,Unemployed,Associate,2803.42,738.9576559,Southwest,Savings,Product grade beat projections,41.8,0,Phone,Basic,0
+ID_0737,35,Salaried,Master,91378.83,781.5111088,,Joint,Billing difficulties caused frustration,29.9,2,Email,Premium,1
+ID_0738,28,Unemployed,High School,64592.42,690.1512857,West Coast,Joint,Product caliber transcended anticipations,33.9,0,Email,Premium,0
+ID_0739,61,Unemployed,Associate,9264.57,600.4847816,Midwest,Checking,Billing setbacks caused frustration,30.2,1,Email,Basic,0
+ID_0740,61,Self-Employed,High School,16096.88,699.3889627,Northeast,Checking,Return process was confusing,25,0,Email,Basic,0
+ID_0741,28,Self-Employed,Associate,71337.97,765.6736866,,Joint,Loyalty program perks are useful,22.9,0,Email,Enterprise,0
+ID_0742,28,Salaried,Associate,29876.23,746.8814951,Midwest,Savings,Product standard transcended forecasts,47.6,0,Text,Premium,1
+ID_0743,35,Salaried,PhD,236786.74,741.4093124,Northeast,Savings,Loyalty program privileges are profitable,32.6,0,Phone,Basic,0
+ID_0744,42,Freelancer,Master,145165.05,706.0003349,Midwest,Checking,Billing concerns caused frustration,19.2,0,Phone,Basic,0
+ID_0745,61,Unemployed,Master,349220.49,656.0484632,Southwest,Checking,Loyalty program advantages are useful,35.8,1,Email,Enterprise,1
+ID_0746,35,Self-Employed,Associate,25556.13,745.7647161,Midwest,Checking,Highly recommend this service to colleagues,41.4,1,Phone,Basic,0
+ID_0747,42,Salaried,Bachelor,297277.97,678.2859095,West Coast,Checking,Technical support was ignoring,47.5,1,Phone,Premium,0
+ID_0748,35,Freelancer,Bachelor,47964.31,829.2048367,Midwest,Checking,Return process was confusing,20.9,0,Phone,Basic,1
+ID_0749,61,Freelancer,High School,36292.7,748.5253604,Northeast,Checking,,37.6,1,Email,Basic,1
+ID_0750,28,Self-Employed,High School,4391.21,690.9675849,Midwest,Checking,Product caliber outstripped anticipations,15.2,1,App,Basic,0
+ID_0751,28,Self-Employed,PhD,4607.71,689.4307376,Northeast,Savings,Loyalty program privileges are advantageous,13.7,3,Email,Basic,1
+ID_0752,42,Freelancer,,100103.82,715.3527897,Southwest,Checking,Product grade transcended anticipations,45.4,1,App,Basic,1
+ID_0753,50,Salaried,High School,52050.45,708.0249039,Midwest,Checking,Technical support was delayed affecting my schedule,24.8,1,Email,Basic,0
+ID_0754,42,Freelancer,High School,21832.89,775.8416888,Southwest,Savings,Product grade beat projections,12.1,0,Email,Premium,0
+ID_0755,50,Unemployed,Associate,80906.48,729.3208085,Southwest,Savings,Highly recommend this service to colleagues,20,1,Email,Basic,1
+ID_0756,35,,PhD,24777.52,683.4184131,Midwest,Joint,Delivery was pushed back by 3 days,12.1,0,Phone,Premium,1
+ID_0757,35,Self-Employed,High School,73259.61,814.5220343,Northeast,Checking,Highly recommend this service to colleagues,50.9,1,Email,Basic,0
+ID_0758,61,Salaried,PhD,37829.38,722.4654166,Southwest,Checking,Product value beat anticipations,12.1,0,Text,Basic,1
+ID_0759,50,Salaried,Master,147452.08,758.4419838,Southwest,Checking,Product caliber outstripped anticipations,56.9,0,Text,Basic,1
+ID_0760,61,Unemployed,PhD,146087.25,689.5886746,Midwest,Checking,Product value beat anticipations,32.3,1,Phone,Basic,0
+ID_0761,28,Freelancer,Bachelor,55151.74,738.1557814,Midwest,Joint,Billing setbacks caused frustration,26.1,0,Phone,Enterprise,0
+ID_0762,50,Self-Employed,Bachelor,36723.73,735.5554996,Midwest,Savings,Product standard transcended forecasts,17.7,1,Phone,Premium,0
+ID_0763,42,Freelancer,PhD,38275.06,625.5175354,Midwest,Savings,Technical support was delayed affecting my schedule,20.7,0,Phone,Basic,1
+ID_0764,28,Freelancer,Bachelor,139266.27,820.7637555,Midwest,Checking,Billing difficulties caused frustration,34.9,1,Email,Premium,0
+ID_0765,28,Freelancer,Master,33809.95,784.532223,West Coast,Checking,Product grade outdid anticipations,26.9,1,Phone,Basic,0
+ID_0766,42,Salaried,Associate,19935.25,700.1402342,Midwest,Checking,Loyalty program perks are profitable,21.8,2,Text,Basic,1
+ID_0767,28,Unemployed,Bachelor,7521.71,664.886513,Northeast,Joint,Product grade surpassed projections,32.4,0,Email,Basic,1
+ID_0768,50,Salaried,Bachelor,53435.95,737.3780807,Southwest,Joint,Delivery was pushed back by 3 days,12.9,1,App,Premium,0
+ID_0769,61,Unemployed,,55932.98,724.334885,Northeast,Savings,,32.1,1,Email,Basic,1
+ID_0770,28,Self-Employed,Master,156253.55,737.7834474,Northeast,Checking,Billing setbacks caused frustration,24.2,2,Email,Premium,0
+ID_0771,50,Self-Employed,Associate,21254.31,729.5788698,West Coast,Checking,Competitive pricing compared to others,27,0,Email,Basic,1
+ID_0772,35,Freelancer,PhD,40769.05,745.3120495,Midwest,Checking,Billing difficulties caused frustration,20.6,2,Email,Basic,0
+ID_0773,50,Unemployed,,140451.91,792.365285,,Checking,Delivery was deferred by 3 days,20.4,2,Text,Enterprise,0
+ID_0774,61,Unemployed,Master,147486.47,748.4051603,Northeast,Joint,Billing difficulties caused frustration,7.5,1,App,Basic,1
+ID_0775,50,Unemployed,Associate,41267.57,667.5172251,Midwest,Savings,Loyalty program advantages are advantageous,46,0,Phone,Premium,0
+ID_0776,42,Freelancer,Master,52238.05,788.1281426,Midwest,Savings,Website navigation needs improvement,52.9,0,App,Premium,0
+ID_0777,61,Freelancer,Associate,30717.31,802.0307282,West Coast,Joint,Billing problems caused frustration that needs resolution,18.5,2,Email,Enterprise,1
+ID_0778,35,Self-Employed,Master,229197.49,877.6028367,West Coast,Checking,Website navigation needs improvement,16.5,0,Email,Basic,1
+ID_0779,42,Salaried,PhD,10734.94,,West Coast,Savings,Return process was convoluted,20,1,Phone,Basic,1
+ID_0780,50,Unemployed,PhD,230716.44,732.1441007,Southwest,Savings,Return process was overly complex,42.5,1,Text,Premium,1
+ID_0781,61,Unemployed,High School,97885.2,615.8950648,Northeast,Joint,Loyalty program perks are beneficial,20.9,1,Email,Basic,0
+ID_0782,35,Salaried,Bachelor,64461.72,,West Coast,Checking,Delivery was held up by 3 days,24.8,0,App,Basic,0
+ID_0783,42,Unemployed,Master,2822.36,692.5899851,West Coast,Savings,Product grade transcended forecasts,34.2,0,Phone,Basic,0
+ID_0784,35,Freelancer,High School,54866.93,816.1722897,West Coast,Checking,Loyalty program perks are useful,21.3,1,App,Basic,0
+ID_0785,50,Freelancer,Bachelor,44524.98,681.2692515,Northeast,Savings,Delivery was late by 3 days affecting my schedule,,1,Email,Basic,1
+ID_0786,35,Unemployed,Master,14943.46,635.5408481,Northeast,Joint,Technical support was ignoring,28.2,0,Email,Basic,0
+ID_0787,28,Freelancer,Associate,90805.93,696.436813,West Coast,Checking,Website layout needs improvement,25.4,0,Phone,Basic,0
+ID_0788,42,Freelancer,Bachelor,301382.52,621.2256114,West Coast,Joint,Product grade beat projections,25.7,0,Phone,Basic,0
+ID_0789,35,Unemployed,PhD,70207.24,757.5549727,Midwest,Savings,Billing setbacks caused frustration,17.1,0,Email,Basic,1
+ID_0790,50,Self-Employed,High School,106624.07,616.7458477,West Coast,Joint,Loyalty program privileges are advantageous,38.2,1,App,Premium,0
+ID_0791,50,Salaried,Bachelor,6027,721.4228791,Southwest,Joint,Product grade transcended forecasts,19.4,1,Text,Premium,0
+ID_0792,35,Freelancer,Bachelor,45960.59,616.109409,Southwest,Joint,Website navigation needs improvement,14.7,1,Email,Basic,0
+ID_0793,50,Self-Employed,PhD,10514.83,703.9851098,West Coast,Savings,Loyalty program rewards are beneficial,6.9,1,Email,Basic,1
+ID_0794,61,Freelancer,Master,80648.27,802.1689078,Northeast,Checking,Highly recommend this service,17.1,0,Email,Basic,0
+ID_0795,61,Freelancer,Associate,237016.38,738.0323946,Midwest,Joint,,5.9,1,Email,Basic,1
+ID_0796,61,Salaried,PhD,92144.42,676.8253198,Northeast,,,17.5,1,Phone,Premium,1
+ID_0797,28,Freelancer,Associate,6792.58,718.4398256,West Coast,Savings,Product grade transcended forecasts,35.2,1,Email,Premium,0
+ID_0798,35,Salaried,Master,37228.94,720.9008436,Southwest,Checking,Loyalty program privileges are advantageous,14.2,2,Phone,Premium,1
+ID_0799,28,Salaried,Bachelor,67998.55,743.6315173,Midwest,Joint,Highly recommend this service to colleagues,30.3,0,Phone,Basic,1
+ID_0800,50,,Associate,43875.83,651.6570818,Northeast,Joint,Loyalty program advantages are useful,37,0,Email,Basic,1
+ID_0801,28,Self-Employed,High School,152458.15,749.6283637,Northeast,Joint,Competitive pricing compared to others,25.7,1,Phone,Premium,0
+ID_0802,50,Unemployed,High School,143277.93,584.7804184,West Coast,Joint,Billing difficulties caused frustration,37.2,0,Email,Basic,0
+ID_0803,50,Self-Employed,PhD,80436.73,688.5057724,Midwest,Joint,Loyalty program incentives are advantageous,75.6,1,Email,Basic,1
+ID_0804,42,Unemployed,Master,39740.85,695.5863079,Southwest,Joint,Website layout needs improvement,44.5,0,Phone,Basic,0
+ID_0805,61,Unemployed,PhD,25059.93,751.6663413,West Coast,Savings,Product grade transcended anticipations,48.7,0,App,Basic,1
+ID_0806,50,Salaried,PhD,9512.26,721.1315426,Midwest,Savings,Billing problems caused frustration that needs resolution,35.3,2,Email,Basic,1
+ID_0807,42,Freelancer,PhD,37259.44,649.7218473,Northeast,Savings,Delivery was pushed back by 3 days,38.1,1,Email,Basic,1
+ID_0808,61,Salaried,High School,45307.07,670.7503437,West Coast,Checking,Return process was problematic,8.9,0,Email,Premium,0
+ID_0809,50,Freelancer,High School,95749.56,729.9340005,Northeast,Checking,Product grade outdid anticipations,23.6,1,Email,Enterprise,0
+ID_0810,50,Unemployed,PhD,91240.02,716.0466329,Northeast,Savings,Billing concerns caused frustration,42.3,1,Email,Basic,1
+ID_0811,28,Salaried,High School,6178.39,691.0437945,West Coast,Checking,Billing challenges caused frustration,27.4,1,Phone,Basic,1
+ID_0812,28,Freelancer,Master,42751.22,695.9583105,West Coast,Checking,Product grade outdid anticipations,29.1,0,Email,Basic,0
+ID_0813,61,Self-Employed,PhD,17052.92,754.8083999,West Coast,Joint,Product grade transcended anticipations,19.2,1,App,Enterprise,1
+ID_0814,50,Freelancer,High School,14498.12,694.1153714,West Coast,Joint,Technical support was delayed causing inconvenience,18.1,1,Email,Basic,1
+ID_0815,35,Salaried,Associate,149278,715.5954378,West Coast,Checking,Product value beat anticipations,43.4,0,Text,Premium,0
+ID_0816,28,Self-Employed,PhD,3639.62,828.4968294,Northeast,Checking,,15.3,0,Text,Basic,0
+ID_0817,61,Freelancer,PhD,46182.14,648.8158682,Southwest,Savings,Billing concerns caused frustration,75,2,Phone,Premium,0
+ID_0818,50,Freelancer,Master,15654.25,627.4078634,Southwest,Checking,Loyalty program incentives are advantageous,7.7,1,Email,Basic,0
+ID_0819,50,Freelancer,Bachelor,179749.29,759.1794832,West Coast,Joint,Technical support was unavailable,31.3,0,Phone,Basic,0
+ID_0820,35,Freelancer,Bachelor,69213.54,686.0678469,Northeast,Checking,Technical support was unavailable,19.7,1,Phone,Basic,1
+ID_0821,61,Freelancer,Master,22368.55,704.0881236,Southwest,Savings,Return process was overly complex,19.5,0,Text,Basic,0
+ID_0822,50,Self-Employed,Master,59331.15,680.9421811,Southwest,Joint,Product value beat anticipations,30.8,0,Phone,Premium,0
+ID_0823,28,Unemployed,Master,111762.55,707.009993,Southwest,Joint,Product grade surpassed anticipations,34.6,3,Email,Premium,0
+ID_0824,35,Self-Employed,Bachelor,269696.44,799.9269056,Northeast,Joint,Delivery was deferred by 3 days,1.9,1,Text,Basic,0
+ID_0825,61,Self-Employed,Master,21167.83,760.1064229,West Coast,Joint,Delivery was late by 3 days affecting my schedule,25.8,1,App,Enterprise,1
+ID_0826,35,,High School,184717.97,763.1111756,West Coast,Checking,Loyalty program perks are beneficial,19.9,0,Phone,Basic,0
+ID_0827,28,Unemployed,PhD,231431.11,649.1886472,West Coast,Savings,Billing difficulties caused frustration,81.4,0,Text,Enterprise,0
+ID_0828,61,Salaried,PhD,210966.39,662.4423132,Midwest,,Product value outstripped anticipations,25.8,2,Phone,Basic,1
+ID_0829,35,Unemployed,Associate,85764.47,578.046067,Midwest,Checking,Billing concerns caused frustration,4.5,1,Phone,Enterprise,0
+ID_0830,42,Self-Employed,Associate,84470.25,679.5309589,Midwest,Joint,Return process was difficult,35.8,0,Phone,Basic,0
+ID_0831,28,Freelancer,PhD,43876.24,767.8351593,Northeast,Savings,Technical support was delayed affecting my schedule,54.6,2,Phone,Basic,0
+ID_0832,28,Freelancer,High School,118654.24,745.8473258,Southwest,Joint,Product standard transcended forecasts,36.9,0,Email,Basic,0
+ID_0833,28,Self-Employed,Bachelor,64411.27,708.9243369,Southwest,Checking,Product grade beat projections,1.7,0,Phone,Basic,0
+ID_0834,42,Freelancer,Bachelor,96174.11,718.8849858,Northeast,Checking,Return process was difficult,13.8,0,Phone,Basic,0
+ID_0835,42,Self-Employed,High School,47550.46,685.5557229,Northeast,Joint,Product grade transcended anticipations,58.9,0,Email,Basic,0
+ID_0836,50,Freelancer,Bachelor,111765.75,730.2379441,West Coast,Checking,Loyalty program rewards are beneficial,34.6,1,Email,Enterprise,1
+ID_0837,35,Unemployed,Master,147896.09,758.293914,West Coast,Checking,Billing challenges caused frustration,28.4,0,Phone,Enterprise,0
+ID_0838,50,Salaried,PhD,13458.48,639.2056606,Midwest,Joint,Website user experience needs improvement,13.3,1,Phone,Enterprise,0
+ID_0839,35,Salaried,PhD,152093.96,734.9823844,Midwest,Checking,Billing problems caused frustration requiring immediate attention,13.7,1,Email,Enterprise,1
+ID_0840,42,Unemployed,High School,66059.76,766.6217435,Northeast,Savings,Technical support was ignoring,48.1,2,Text,Premium,0
+ID_0841,42,Unemployed,Bachelor,158285.05,699.2449856,Midwest,Joint,,30.5,0,Text,Enterprise,1
+ID_0842,50,Self-Employed,Associate,47974.44,755.0350306,Southwest,,Product grade surpassed projections,35.4,0,Email,Premium,0
+ID_0843,61,Self-Employed,Associate,40501.6,860.7327222,Northeast,Checking,Delivery was postponed by 3 days,12.6,1,Email,Basic,1
+ID_0844,50,Self-Employed,Bachelor,209594.6,714.7828604,Northeast,Checking,Highly recommend this service to colleagues,56.8,2,App,Premium,0
+ID_0845,35,Freelancer,Associate,24585.6,739.6653525,Southwest,Joint,Loyalty program rewards are beneficial,4.2,1,Text,Enterprise,0
+ID_0846,50,Self-Employed,High School,158037.21,683.0971458,West Coast,Checking,Loyalty program privileges are profitable,5.8,0,Email,Premium,0
+ID_0847,28,Unemployed,High School,56243.51,729.0625581,West Coast,Joint,Loyalty program perks are profitable,11.1,1,Email,Basic,1
+ID_0848,35,Salaried,Bachelor,61348.16,743.0135812,Southwest,Joint,Technical support was unavailable,30.7,0,Email,Basic,0
+ID_0849,35,Freelancer,Associate,31351.93,729.742117,Southwest,Joint,Return process was confusing,36.5,1,Phone,Premium,0
+ID_0850,61,Self-Employed,High School,72340.96,669.015234,Midwest,Joint,Billing problems caused frustration that needs resolution,48.5,0,Email,Enterprise,0
+ID_0851,42,Freelancer,High School,33435.22,730.3180886,Northeast,Joint,Return process was problematic,26.1,0,Phone,Basic,1
+ID_0852,35,Freelancer,Master,3405.21,793.1097969,Midwest,Savings,Loyalty program incentives are advantageous,44.7,0,Email,Basic,0
+ID_0853,42,Self-Employed,Master,26983.45,742.4317882,Southwest,Joint,Product grade outdid anticipations,17.1,2,Text,Basic,1
+ID_0854,50,Freelancer,High School,543.96,768.0993595,Midwest,Savings,Loyalty program rewards are beneficial,16.2,1,Email,Basic,0
+ID_0855,28,Salaried,Bachelor,325802.53,708.1494015,Southwest,Checking,Loyalty program privileges are profitable,8.8,0,Phone,Basic,0
+ID_0856,61,Unemployed,PhD,286788.92,757.495012,Midwest,Joint,Product grade outdid hopes,55.9,3,App,Premium,0
+ID_0857,42,Unemployed,PhD,42736.6,733.9633919,Midwest,,Competitive pricing compared to others,21,0,Email,Enterprise,0
+ID_0858,35,Salaried,High School,110781.99,672.4544635,West Coast,Joint,Billing difficulties caused frustration,49.5,0,Email,Premium,0
+ID_0859,42,Freelancer,High School,36069.88,735.9260502,Southwest,Savings,Product caliber outstripped anticipations,30,0,Phone,Basic,0
+ID_0860,35,Self-Employed,High School,94518.36,670.4151668,Midwest,Savings,Return process was convoluted,42,0,Email,Enterprise,1
+ID_0861,42,Freelancer,Bachelor,139141.9,688.3559863,Northeast,Savings,Website navigation needs improvement,28.4,1,Text,Basic,0
+ID_0862,35,Salaried,Master,249294.35,729.4664154,Midwest,Checking,Website design needs improvement,52.7,1,Email,Basic,0
+ID_0863,50,Freelancer,High School,43450.26,734.8622137,Midwest,Joint,Billing setbacks caused frustration,17.1,0,Email,Basic,0
+ID_0864,35,Unemployed,High School,129984.73,660.5383767,Northeast,Checking,Loyalty program perks are useful,50.6,1,App,Premium,0
+ID_0865,35,Freelancer,Associate,26277.65,772.6992886,Southwest,Savings,Return process was problematic,11.4,1,Phone,Premium,0
+ID_0866,28,Salaried,Bachelor,394312.05,748.6003139,West Coast,Checking,Billing challenges caused frustration,73.1,1,Phone,Enterprise,0
+ID_0867,35,Unemployed,High School,2219.13,684.7635782,West Coast,Savings,Technical support was delayed causing inconvenience,51.6,0,Email,Basic,0
+ID_0868,28,Freelancer,Associate,78637.91,643.1207602,West Coast,Savings,Return process was problematic,34.3,1,Email,Basic,1
+ID_0869,61,Freelancer,PhD,91575.41,712.754771,Northeast,Savings,Product grade beat projections,46.9,2,Text,Basic,1
+ID_0870,28,Unemployed,High School,99016.34,697.7028143,Midwest,,Billing challenges caused frustration,28.1,1,Email,Premium,0
+ID_0871,50,Self-Employed,High School,10903.28,725.6570229,Southwest,Joint,Competitive pricing compared to others,66.9,0,Email,Premium,0
+ID_0872,28,Unemployed,Associate,237082.21,701.8441669,Midwest,Savings,Return process was convoluted,65.6,1,Email,Basic,1
+ID_0873,61,Self-Employed,Bachelor,16991.08,619.627157,West Coast,Checking,Return process was overly complex,13.5,1,Email,Basic,0
+ID_0874,50,Salaried,High School,82862.78,700.5826531,Midwest,Checking,Technical support was delayed affecting my schedule,5.6,0,Phone,Enterprise,0
+ID_0875,42,Salaried,PhD,21411.34,704.7190444,Northeast,Joint,Product grade outdid anticipations,35.8,2,Text,Enterprise,0
+ID_0876,42,Unemployed,High School,31198.2,751.6830512,Northeast,Savings,Product standard transcended forecasts,23.9,0,Phone,Basic,1
+ID_0877,28,Unemployed,PhD,67206.83,685.0900163,Southwest,Checking,Return process was convoluted,50.2,0,Phone,Premium,1
+ID_0878,28,Salaried,Master,45891.49,803.9337337,Southwest,Savings,Loyalty program advantages are useful,50.3,0,Phone,Premium,0
+ID_0879,61,Self-Employed,Master,14842.87,624.4179725,West Coast,Checking,Return process was difficult,23.8,0,Phone,Basic,0
+ID_0880,61,Salaried,PhD,15933.96,785.5583749,Southwest,Joint,Product grade beat projections,27.1,1,Phone,Basic,0
+ID_0881,35,Unemployed,Bachelor,46030.36,708.7840515,Midwest,Savings,Product grade transcended forecasts,26.5,0,Email,Basic,1
+ID_0882,61,Salaried,High School,120348.02,762.9792436,Northeast,Savings,Technical support was delayed affecting my schedule,8.5,0,Email,Basic,0
+ID_0883,35,Unemployed,High School,194007.05,723.9900742,Northeast,Checking,Delivery was postponed by 3 days,39.7,0,App,Premium,0
+ID_0884,50,Unemployed,Master,7469.65,776.9777768,Northeast,Checking,Product grade transcended forecasts,24.5,1,Email,Basic,1
+ID_0885,28,Salaried,PhD,42448.8,700.6319018,Southwest,Checking,Return process was overly complex,22.5,0,Email,Basic,0
+ID_0886,50,Self-Employed,High School,8978.84,665.0689787,Northeast,,Loyalty program rewards are beneficial,21.2,1,Phone,Basic,1
+ID_0887,61,Freelancer,High School,1422.19,791.0252144,Northeast,Joint,Excellent customer service experience,22.7,1,Phone,Basic,0
+ID_0888,50,Salaried,Bachelor,92129.58,714.3259677,Northeast,Joint,,32.7,1,Phone,Premium,0
+ID_0889,50,Freelancer,Associate,78406.82,731.0779237,West Coast,Checking,Product value outstripped anticipations,11.1,0,Email,Basic,0
+ID_0890,50,Salaried,Master,15126.09,781.7375957,West Coast,Joint,Product caliber transcended anticipations,40.6,1,App,Basic,1
+ID_0891,61,Freelancer,Master,22637.95,668.4022379,Southwest,Checking,Product value beat anticipations,13.7,1,Phone,Enterprise,1
+ID_0892,50,,Associate,2039.43,749.7745449,Northeast,Joint,Delivery was pushed back by 3 days,16.5,2,Text,Basic,1
+ID_0893,35,Self-Employed,High School,153126.64,690.5052622,Southwest,Savings,Loyalty program incentives are advantageous,50.2,0,Email,Premium,0
+ID_0894,61,Salaried,,312509.24,713.3915322,Northeast,Checking,Return process was confusing,24.6,2,Email,Basic,1
+ID_0895,50,Unemployed,Bachelor,12372.36,723.6139483,Northeast,Joint,Product grade transcended forecasts,31.9,0,Email,Premium,0
+ID_0896,61,Freelancer,Master,22379.01,644.9889069,Northeast,Savings,,24.6,0,Email,Premium,0
+ID_0897,42,Unemployed,Bachelor,172385.15,681.0581479,Southwest,Joint,Product grade surpassed anticipations,9.6,0,Email,Basic,1
+ID_0898,35,Unemployed,Associate,221848.08,787.5536446,Southwest,Savings,Product grade surpassed anticipations,35.4,3,Email,Premium,0
+ID_0899,50,Unemployed,High School,46247.22,764.3095594,Northeast,Savings,,17.9,0,Phone,Basic,0
+ID_0900,42,Self-Employed,Associate,4415.64,716.8680211,Midwest,Joint,Product value outstripped anticipations,14.4,1,Phone,Enterprise,0
+ID_0901,42,Salaried,PhD,3416.04,732.1561729,Southwest,Joint,Delivery was late by 3 days affecting my schedule,,0,Phone,Basic,0
+ID_0902,61,Salaried,Master,72521.85,705.2878747,West Coast,Savings,Product grade surpassed projections,40,0,Email,Premium,0
+ID_0903,42,Self-Employed,Bachelor,42419.56,787.8291693,Southwest,Savings,Loyalty program rewards are beneficial,22.3,1,Email,Basic,0
+ID_0904,35,Self-Employed,PhD,2471.03,709.9823711,Northeast,Savings,Product standard transcended forecasts,52.4,0,Email,Premium,0
+ID_0905,35,Salaried,Bachelor,74398.33,731.5921046,,Checking,Excellent customer service experience,68.6,2,Email,Enterprise,1
+ID_0906,28,Unemployed,High School,966.19,777.3015072,Northeast,Savings,Highly recommend this service to colleagues,42.4,1,Email,Premium,1
+ID_0907,35,Freelancer,High School,131597.93,681.1314258,West Coast,Checking,Billing setbacks caused frustration,6.6,0,Email,Basic,0
+ID_0908,42,Freelancer,High School,31102.11,797.9394592,Southwest,Savings,Technical support was ignoring,24.6,1,Text,Basic,0
+ID_0909,35,Freelancer,Bachelor,3492.72,643.4769295,Southwest,Checking,Delivery was pushed back by 3 days,15.6,0,Text,Basic,0
+ID_0910,61,Unemployed,PhD,75444.91,801.4821066,Northeast,Savings,Website navigation needs improvement,12.1,2,Phone,Basic,0
+ID_0911,28,Salaried,High School,43092.77,701.3662208,Northeast,Savings,Loyalty program incentives are advantageous,29.8,0,Text,Basic,0
+ID_0912,42,Self-Employed,PhD,309570.99,707.8650626,West Coast,Savings,Billing problems caused frustration requiring immediate attention,16.8,0,Phone,Basic,1
+ID_0913,28,Salaried,Bachelor,66784.35,625.4994914,Midwest,,Product grade transcended forecasts,27.9,0,Text,Basic,0
+ID_0914,42,Unemployed,PhD,27362.65,697.2602641,West Coast,Joint,Highly recommend this service to colleagues,45.4,0,Phone,Basic,0
+ID_0915,61,Self-Employed,Bachelor,105055.01,668.0096734,Midwest,Savings,Billing difficulties caused frustration,,0,Phone,Basic,0
+ID_0916,28,Unemployed,Bachelor,26924.32,689.6176827,Southwest,Checking,Billing problems caused frustration requiring immediate attention,40.1,1,Phone,Basic,0
+ID_0917,50,Freelancer,Master,199405.29,713.1344517,Midwest,Checking,Billing concerns caused frustration,34.2,0,Email,Basic,1
+ID_0918,42,Freelancer,Bachelor,39912.5,767.8895807,Midwest,Savings,Return process was convoluted,17.9,1,Phone,Premium,1
+ID_0919,50,Unemployed,Bachelor,67848.33,730.3801676,Southwest,Joint,Highly recommend this service to colleagues,39.4,1,App,Basic,0
+ID_0920,28,Self-Employed,,4411.22,735.3838327,Southwest,Checking,Delivery was pushed back by 3 days,43.8,3,Phone,Basic,1
+ID_0921,50,Self-Employed,High School,47203.66,665.2240306,Southwest,Joint,Loyalty program perks are beneficial,38.1,1,Email,Basic,0
+ID_0922,50,Salaried,Master,151806.39,675.9622955,West Coast,Checking,Loyalty program perks are useful,37.3,0,Email,Basic,1
+ID_0923,28,Freelancer,Master,139237.52,809.9362509,Southwest,Savings,Billing concerns caused frustration,1.7,0,Text,Premium,1
+ID_0924,61,Salaried,Master,21591.14,683.2399483,Northeast,Joint,Billing difficulties caused frustration,20.4,0,App,Basic,0
+ID_0925,50,Salaried,Associate,21784.27,802.8104126,,Checking,Delivery was late by 3 days affecting my schedule,29.1,0,Email,Basic,0
+ID_0926,50,Unemployed,Bachelor,144494.81,707.8469401,Southwest,,Loyalty program privileges are advantageous,18.2,0,Text,Premium,0
+ID_0927,61,Unemployed,High School,226522.28,720.1143968,Southwest,Savings,Highly recommend this service,32.2,0,Text,Enterprise,0
+ID_0928,50,Salaried,PhD,8518.63,773.518258,Midwest,Savings,Technical support was ignoring,21.1,1,Email,Basic,1
+ID_0929,50,Freelancer,Bachelor,50825.21,783.5946211,West Coast,Joint,Technical support was unavailable,20.2,2,Text,Basic,0
+ID_0930,50,Unemployed,Associate,34991.59,714.459372,Southwest,Joint,Technical support was delayed causing inconvenience,12.5,2,Email,Basic,0
+ID_0931,35,Salaried,Bachelor,173870.11,700.5878473,West Coast,,Product value outstripped anticipations,10,0,Phone,Basic,1
+ID_0932,61,Salaried,Bachelor,7413.73,717.2039776,Northeast,Joint,Product grade surpassed projections,13,2,Phone,Basic,1
+ID_0933,50,Salaried,Associate,20157.63,736.8978764,Northeast,Checking,Product value beat anticipations,34.2,0,Phone,Premium,0
+ID_0934,61,Salaried,Master,118678.43,764.5651843,Southwest,Savings,Loyalty program privileges are advantageous,19.2,1,Phone,Basic,0
+ID_0935,42,Salaried,Master,4475.77,720.2114929,Northeast,Savings,Loyalty program perks are profitable,26.5,0,Email,Enterprise,0
+ID_0936,42,Salaried,High School,57657.9,750.9443149,West Coast,Joint,Product grade surpassed projections,17,0,Text,Basic,0
+ID_0937,50,Unemployed,High School,49604.99,801.9179866,Midwest,Savings,Website design needs improvement,47.6,0,Text,Basic,1
+ID_0938,61,Freelancer,Master,34600.79,739.0654806,Southwest,Checking,Delivery was pushed back by 3 days,10.9,2,Phone,Premium,0
+ID_0939,61,Salaried,PhD,42654.71,735.5826428,Northeast,Joint,Loyalty program advantages are advantageous,,0,Email,Basic,0
+ID_0940,61,Self-Employed,Bachelor,64166.18,644.0544587,West Coast,Joint,Loyalty program perks are beneficial,16,1,Email,Basic,0
+ID_0941,35,Unemployed,PhD,14958.51,588.4634932,West Coast,Savings,Loyalty program incentives are advantageous,4.9,0,Email,Basic,0
+ID_0942,42,Unemployed,Bachelor,72132.91,739.4187865,Northeast,Savings,Website design needs improvement,38.9,3,Text,Basic,1
+ID_0943,61,Salaried,Master,139142.9,715.2587884,West Coast,Savings,Product caliber transcended anticipations,33.4,2,Email,Basic,1
+ID_0944,61,Unemployed,High School,121361.91,694.2608663,West Coast,Joint,Billing setbacks caused frustration,5.5,1,App,Basic,0
+ID_0945,35,Salaried,High School,14205,732.1765102,Southwest,Savings,Product value beat anticipations,24.7,1,Text,Basic,0
+ID_0946,35,Freelancer,PhD,13739.09,716.9798135,West Coast,Checking,Billing problems caused frustration requiring immediate attention,40.1,2,Phone,Basic,0
+ID_0947,61,Freelancer,High School,26538.11,776.3890125,Northeast,Savings,Return process was confusing,21.9,0,Phone,Enterprise,1
+ID_0948,28,Unemployed,Master,38077.26,724.3055434,Southwest,Savings,Website user experience needs improvement,10.8,1,Phone,Basic,1
+ID_0949,61,,PhD,44626.57,682.6538357,Northeast,Joint,Product grade surpassed projections,51.8,0,Phone,Basic,0
+ID_0950,61,Self-Employed,Bachelor,96771.53,769.5083119,Midwest,Savings,Product caliber transcended anticipations,12.9,0,Email,Enterprise,1
+ID_0951,35,Unemployed,High School,4959.76,709.1434463,Northeast,Joint,Billing difficulties caused frustration,42,0,Text,Premium,1
+ID_0952,35,Self-Employed,Associate,2999.49,746.3268342,Northeast,Savings,Loyalty program privileges are profitable,32.8,2,Phone,Basic,0
+ID_0953,61,Freelancer,High School,42281.83,696.1294647,Southwest,Checking,Technical support was ignoring,36.9,0,Phone,Basic,1
+ID_0954,61,Freelancer,Bachelor,101537.84,687.5086557,West Coast,Checking,Delivery was late by 3 days affecting my schedule,34.9,0,Phone,Premium,0
+ID_0955,61,Salaried,PhD,18272.55,724.2084115,Northeast,Joint,Loyalty program perks are useful,29,0,Email,Basic,0
+ID_0956,35,Freelancer,Bachelor,87196.33,720.6414322,Southwest,Joint,Competitive pricing compared to others,32.9,0,Email,Premium,0
+ID_0957,61,Self-Employed,Associate,25574.19,743.9913518,Midwest,Savings,Loyalty program perks are useful,40.1,0,Text,Enterprise,0
+ID_0958,61,Unemployed,Master,184646.56,706.5677123,Southwest,Savings,Return process was overly complex,35.1,2,Email,Basic,0
+ID_0959,50,Salaried,High School,192132.94,628.1820108,Southwest,Checking,Website layout needs improvement,29.1,2,Phone,Basic,1
+ID_0960,28,Self-Employed,PhD,29988.6,698.3613058,West Coast,Savings,Billing difficulties caused frustration,35.1,0,Email,Premium,0
+ID_0961,42,Unemployed,Master,22215.32,759.6909234,Northeast,Checking,Technical support was delayed causing inconvenience,55.6,1,Email,Basic,1
+ID_0962,28,Salaried,Bachelor,45036.85,705.131196,Midwest,Joint,Billing challenges caused frustration,90.1,2,Email,Basic,0
+ID_0963,50,Freelancer,PhD,23386.61,707.6808299,Southwest,Savings,Technical support was unavailable,19,1,Text,Basic,0
+ID_0964,42,Self-Employed,Master,94852.57,769.3188253,Northeast,Joint,Loyalty program rewards are beneficial,50.4,0,Phone,Premium,0
+ID_0965,61,,PhD,148671.1,684.4013386,Northeast,Savings,Loyalty program perks are profitable,59.2,0,Phone,Basic,0
+ID_0966,50,Salaried,Associate,95036.54,642.8598391,Southwest,Checking,Loyalty program incentives are advantageous,8.4,4,App,Enterprise,1
+ID_0967,61,Salaried,Associate,147837.48,711.968444,Northeast,Joint,Return process was confusing,33,0,Email,Premium,0
+ID_0968,35,Freelancer,High School,42995.13,695.7913024,Southwest,Joint,Delivery was held up by 3 days,34.3,0,Email,Basic,0
+ID_0969,50,Unemployed,High School,14448.17,671.687684,Southwest,Savings,Return process was convoluted,63.3,0,Phone,Premium,0
+ID_0970,35,Freelancer,Associate,113834,711.2310772,Southwest,Joint,Technical support was delayed causing inconvenience,39.6,3,Phone,Basic,1
+ID_0971,50,Freelancer,PhD,37997.45,744.5752824,Midwest,Checking,Return process was difficult,5.5,0,Email,Premium,1
+ID_0972,50,Unemployed,Associate,94564.29,719.5355719,Southwest,Joint,Loyalty program perks are beneficial,45.8,0,App,Basic,1
+ID_0973,35,Unemployed,High School,26825.43,735.3490536,West Coast,Joint,Product grade outdid anticipations,17.1,0,App,Basic,0
+ID_0974,42,Unemployed,Associate,7201.12,810.6703849,Northeast,Savings,Billing concerns caused frustration,4.1,1,Email,Premium,0
+ID_0975,28,Self-Employed,Associate,416824.55,702.8560569,Midwest,Joint,Billing problems caused frustration that needs resolution,64.7,2,Email,Basic,0
+ID_0976,61,Unemployed,PhD,14436.53,733.9174317,Northeast,Savings,Website user experience needs improvement,17.7,0,Text,Premium,0
+ID_0977,50,Salaried,Master,378977.74,694.5393319,Midwest,Savings,Product value beat anticipations,4.2,1,Email,Premium,0
+ID_0978,61,Freelancer,High School,321683.07,677.682014,West Coast,Joint,Highly recommend this service without hesitation,26.8,1,Email,Basic,0
+ID_0979,35,Self-Employed,PhD,134214.7,690.7546173,Midwest,Checking,Product grade outdid hopes,25.3,0,Phone,Basic,0
+ID_0980,61,Unemployed,Associate,91554.68,696.0620714,Midwest,Savings,Technical support was delayed affecting my schedule,34.5,0,Email,Enterprise,0
+ID_0981,35,Self-Employed,Associate,73294.89,737.9737899,Midwest,Joint,Delivery was pushed back by 3 days,28.6,0,Email,Basic,1
+ID_0982,61,Unemployed,Master,170907.25,837.4537893,Northeast,Savings,Return process was convoluted,8.7,1,Email,Premium,0
+ID_0983,28,Self-Employed,High School,29044.6,,Southwest,Checking,Technical support was delayed causing inconvenience,22.1,2,Phone,Premium,0
+ID_0984,28,Freelancer,High School,53593.58,699.1687347,Northeast,Checking,Product grade beat projections,33.1,0,Phone,Enterprise,1
+ID_0985,28,Freelancer,Bachelor,82108.3,716.8438493,Southwest,Savings,Billing difficulties caused frustration,27.6,1,Email,Premium,0
+ID_0986,28,Salaried,High School,45020.47,739.7899424,Northeast,Checking,Delivery was held up by 3 days,13.2,1,Email,Basic,1
+ID_0987,28,Salaried,Master,47406.11,733.1775406,,Joint,Delivery was deferred by 3 days,60.1,1,Phone,Enterprise,0
+ID_0988,28,Unemployed,Bachelor,34076.72,784.2047897,West Coast,Joint,Billing challenges caused frustration,29,0,App,Premium,0
+ID_0989,35,Freelancer,Bachelor,70604.81,598.6803965,Midwest,,Technical support was delayed causing inconvenience,5.1,1,App,Premium,1
+ID_0990,50,Self-Employed,Associate,161581.39,600.6535065,West Coast,Checking,Technical support was delayed causing inconvenience,25.8,2,Email,Basic,1
+ID_0991,61,Self-Employed,Associate,19129.75,695.2060914,Midwest,,Loyalty program advantages are useful,29.3,1,Phone,Basic,1
+ID_0992,28,Self-Employed,High School,231598.08,774.8650094,Southwest,Joint,Website user experience needs improvement,66.6,0,Phone,Premium,0
+ID_0993,35,Salaried,Bachelor,99300.76,,West Coast,Joint,Loyalty program perks are profitable,29.5,0,Text,Basic,0
+ID_0994,35,Self-Employed,Associate,147317.78,569.618383,Southwest,Savings,Product standard transcended forecasts,12,0,Phone,Basic,0
+ID_0995,35,Salaried,Master,69050.63,748.5589703,Northeast,Savings,Return process was difficult,48.7,3,Email,Basic,0
+ID_0996,50,Salaried,Associate,128514.33,732.1828612,Southwest,Joint,,,1,Phone,Basic,1
+ID_0997,61,Unemployed,Associate,1388.31,665.4895797,Northeast,Joint,Excellent customer service experience,18.7,0,Email,Basic,0
+ID_0998,50,Self-Employed,Bachelor,144996.49,670.72302,Southwest,Checking,Product caliber outstripped anticipations,3,2,Email,Basic,1
+ID_0999,42,Self-Employed,Bachelor,3482.17,671.512814,Southwest,Checking,Billing difficulties caused frustration,45,1,Phone,Basic,0
