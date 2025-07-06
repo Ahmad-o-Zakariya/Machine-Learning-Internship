@@ -1,0 +1,13 @@
+Model Outputs
+
+1)Linear Regrssion:
+    Mean 1056483.8249973883
+    Std 118829.66202599404
+
+2)Decision Tree:
+    Mean 1586106.008516665
+    Std 208927.67143966272
+
+3) Random Forest Regressor:
+    Mean 1155045.283304718
+    Std 150071.9695885263

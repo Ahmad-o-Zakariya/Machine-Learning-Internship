@@ -1,0 +1,6 @@
+1) What is the business objective and end goal? How will the firm benefit from the model ?
+2) How does the current solution look like? 
+3) Selectting a Performance measure: RMSE. Manhattan (optional)
+4) Check the assumptions; Talk to the team and understand.
+5) Jupyter Notebook --> easy to document and helpful in analysis part.
+6) VS code, IDE --> When finalizing the model.
